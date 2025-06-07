@@ -1,0 +1,935 @@
+address,Trzaskowski_first,Nawrocki_first,Trzaskowski_second,Nawrocki_second
+"""Acherówka"", ul. Walerego Sławka 2, 02-495 Warszawa",686,315,191,579
+"""NAZARET"" Dom Pomocy Społecznej Zgromadzenia Sióstr Służebniczek NMP, ul. Odrowążów 124, 44-103 Gliwice",9,14,7,26
+"""Szpital Powiatowy w Jarocinie"" Sp. z o.o., ul. Szpitalna 1, 63-200 Jarocin",14,12,13,20
+"116 Szpital Wojskowy z Przychodnią SP ZOZ w Opolu, ul. Walerego Wróblewskiego 46, 45-759 Opole",20,7,15,14
+"21 Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny SP ZOZ w Busku-Zdroju, ul. Feliksa Rzewuskiego 8, 28-100 Busko-Zdrój",172,129,148,111
+"6 Szpital Wojskowy z Przychodnią SPZOZ, ul. Szpitalna 2, 08-530 Dęblin",3,8,2,7
+"AAI-Polska AIKIDO, ul. Immanuela Kanta 15A, 10-691 Olsztyn",736,287,132,484
+"ATM STUDIO Sp zo. o., ul. Wał Miedzeszyński 384, 03-994 Warszawa",608,228,35,441
+"Akademia Pożarnicza, ul. Henryka Siemiradzkiego 2, 01-630 Warszawa",609,238,105,517
+"Akademicka Spółdzielnia Mieszkaniowa, Gdańsk ul. Księcia Józefa Poniatowskiego 13, 80-156 Gdańsk 48",750,218,128,362
+"Biblioteka - Ośrodek Kultury Gminy Sadowie, Sadowie 90A, 27-580 Sadowie",58,148,42,314
+"Biblioteka Miejska w Łodzi Filia Nr 47, ul. Brzeźna 10, 90-303 Łódź",846,217,408,445
+"Biblioteka Miejska w Łodzi Filia nr 73, ul. Piękna 35/39, 93-558 Łódź",757,427,250,736
+"Biblioteka Publiczna w Dzielnicy Bemowo m. st. Warszawy Punkt Biblioteczny ""Chrzanów"", ul. Batalionów Chłopskich 87, 01-307 Warszawa",756,209,508,641
+"Biblioteka Publiczna, ul. Czerwona Droga 6, 02-496 Warszawa",528,144,176,572
+"Biblioteka Publiczna, ul. Poznańska 16, 62-095 Murowana Goślina",669,229,88,493
+"Biblioteka Publiczna, ul. gen. Tadeusza Pełczyńskiego 28C, 01-471 Warszawa",759,227,347,503
+"Biuro Nadleśnictwa, ul. Kopytko 13, 43-300 Bielsko-Biała",764,356,142,659
+"Budynek POLO MARKETU, os. Osiedle Prymasa Wyszyńskiego 5, 63-000 Środa Wielkopolska",588,243,60,555
+"Budynek Studium Wychowania Fizycznego Wojskowej Akademii Technicznej, ul. Kartezjusza 1, 01-480 Warszawa",745,200,58,317
+"Budynek Szpitala w Chodzieży, ul. Strzelecka 32, 64-800 Chodzież",43,25,38,47
+"Budynek byłej Szkoły Podstawowej w Obarzymie, Obarzym 36A, 36-204 Dydnia",35,63,34,123
+"Budynek gospodarczy (świetlica wiejska), Bąkowo ul. Otomińska 6, 83-050 Kolbudy",751,207,158,505
+"Budynek komunalny przy OSP, ul. Ignacego Krasickiego 215, 05-500 Nowa Wola",837,322,517,776
+"Budynek Świetlicy na Skwerze Sportów Miejskich, ul. gen. Tadeusza Pełczyńskiego 22H, 01-471 Warszawa",852,218,566,550
+"Budynek, ul. Bernardyńska 2, 64-000 Kościan",598,334,61,656
+"CLVI Liceum Ogólnokształcące Integracyjne „Przy Łazienkach Królewskich”, ul. Podchorążych 49/61, 00-722 Warszawa",1070,458,833,818
+"CLXIV Liceum Ogólnokształcące Mistrzostwa Sportowego, ul. Chełmska 23, 00-724 Warszawa",721,241,249,450
+"CPS-Ośrodek Wsparcia i Rehabilitacji Osób Niepełnosprawnych, ul. gen. Władysława Andersa 6/8, 00-201 Warszawa",804,400,531,633
+"Centrum ""Attis"" MSB, ul. Górczewska 89, 01-401 Warszawa",10,15,8,22
+"Centrum ""Łowicka"" Dom Kultury w Dzielnicy Mokotów m. st. Warszawy, ul. Łowicka 21, 02-502 Warszawa",864,285,570,499
+"Centrum Aktywności Lokalnej BOREK, ul. Powstańców Śląskich 210-218, 53-140 Wrocław",799,306,187,545
+"Centrum Aktywności Lokalnej Maślice, ul. Suwalska 11, 54-104 Wrocław",615,175,272,477
+"Centrum Aktywności Lokalnej Zakrzów, ul. Wilanowska 29a, 51-206 Wrocław",622,446,162,769
+"Centrum Alzheimera, al. Aleja Wilanowska 257, 02-730 Warszawa",11,8,10,21
+"Centrum Edukacji Nauczycieli, ul. Ferdynanda Ruszczyca 16, 75-654 Koszalin",710,253,56,461
+"Centrum Kardiologii Inwazyjnej, Elektroterapii i Angiologii, ul. Jana Kilińskiego 68, 33-300 Nowy Sącz",6,10,2,11
+"Centrum Kształcenia Ustawicznego Nr 2, ul. Szczęśliwicka 50/54, 02-353 Warszawa",1261,359,1002,677
+"Centrum Kształcenia Zawodowego Nr 1 Wydział Budowlany, ul. Wesele 41, 30-127 Kraków",645,238,370,536
+"Centrum Kształcenia Zawodowego i Ustawicznego Nr 1, Gdańsk al. Aleja Gen. Józefa Hallera 16/18, 80-426 Gdańsk 6",700,300,297,563
+"Centrum Kształcenia Zawodowego i Ustawicznego Nr 2, Gdańsk ul. Smoleńska 5/7, 80-058 Gdańsk 9",664,379,98,708
+"Centrum Kształcenia Zawodowego i Ustawicznego w Sosnowcu, Technikum Nr 1 Ekonomiczne (dawny Zespół Szkół Ekonomicznych), ul. gen. Stefana Grota-Roweckiego 66, 41-214 Sosnowiec",707,298,41,511
+"Centrum Kształcenia Zawodowego i Ustawicznego w Sosnowcu, Technikum Nr 4 Transportowe (dawny Zespół Szkół Technicznych i Licealnych), ul. Jana Kilińskiego 31, 41-209 Sosnowiec",876,288,270,534
+"Centrum Kształcenia Zawodowego i Ustawicznego w Łodzi, ul. Stefana Żeromskiego 115, 90-542 Łódź",466,186,83,549
+"Centrum Kształcenia Zawodowego i Ustawicznego, ul. Jawornicka 1, 60-161 Poznań",681,223,132,446
+"Centrum Kultury ""Dworek Białoprądnicki"" Klub Kultury ""Chełm"", ul. Chełmska 16, 30-238 Kraków",790,276,186,510
+"Centrum Kultury Izabelin, Izabelin C ul. Jana Matejki 21, 05-080 Izabelin",744,454,96,750
+"Centrum Kultury Wilanów, ul. Zygmunta Vogla 62, 02-990 Warszawa",721,214,32,369
+"Centrum Kultury i Biblioteka Publiczna, ul. Szkolna 16, 62-002 Suchy Las",734,161,132,304
+"Centrum Kultury i Rekreacji w Koziegłowach, ul. Marszałka Józefa Piłsudskiego 3, 62-028 Koziegłowy",2133,793,1387,1510
+"Centrum Kultury, ul. Kościuszki 49, 05-500 Piaseczno",576,323,0,606
+"Centrum Opieki Medycznej w Jarosławiu, ul. 3-go Maja 70, 37-500 Jarosław",22,44,20,68
+"Centrum Organizacji Pozarządowych w Luboniu, ul. gen. Władysława Sikorskiego 3, 62-030 Luboń",692,217,38,399
+"Centrum Sportowe, ul. Katowicka 95, 61-131 Poznań",915,179,822,437
+"Centrum Usług Społecznych, ul. 6 Marca 35, 76-032 Mielno",587,266,270,686
+"Cuprum-Med Spółka z o. o., ul. Marii Skłodowskiej-Curie 70, 59-300 Lubin",10,5,7,8
+"DODR we Wrocławiu Obiekt Hotelowy AGRO, ul. Zwycięska 4, 53-033 Wrocław",669,159,230,396
+"Dolnośląski Ośrodek Pielęgnacyjno-Rehabilitacyjny ""Niebieski Parasol"", ul. Szpitalna 20, 59-225 Chojnów",5,3,4,4
+"Dolnośląski Specjalny Ośrodek Szkolno-Wychowawczy nr 13 dla Uczniów Niewidomych i Słabowidzących oraz z innymi niepełnosprawnościami im. Marii Grzegorzewskiej we Wrocławiu, ul. Kamiennogórska 16, 54-034 Wrocław",484,226,25,504
+"Dolnośląskie Centrum Chorób Serca im. prof. Zbigniewa Religi-Medinet Sp. z o. o., ul. Henryka Michała Kamieńskiego 73a, 51-124 Wrocław",17,16,15,25
+"Dom Emeryta w Brańszczyku, ul. Jana Pawła II 1, 07-221 Brańszczyk",4,25,3,34
+"Dom Kultury "" Włochy"", ul. Bolesława Chrobrego 27, 02-479 Warszawa",648,171,56,340
+"Dom Kultury Portiernia, ul. Traktorzystów 20, 02-495 Warszawa",548,167,380,459
+"Dom Kultury w Lipniku, ul. Podgórna 29, 43-300 Bielsko-Biała",630,457,74,811
+"Dom Kultury, ul. Czerwonych Kosynierów 19, 76-270 Ustka",754,353,206,620
+"Dom Muz-Filia Rudak, ul. Okólna 169, 87-100 Toruń",1162,391,965,887
+"Dom Osiedlowy, ul. Zjednoczenia 4, 62-003 Biedrusko",889,211,381,530
+"Dom Pomocy Społecznej Nr 1 w Krośnie, ul. Franciszka Żwirki i Stanisława Wigury 4a, 38-400 Krosno",15,22,13,29
+"Dom Pomocy Społecznej Stowarzyszenia na rzecz Osób Starszych i Niepełnosprawnych Fizycznie, Intelektualnie, Osób Chorych Psychicznie oraz Osób Uzależnionych od Alkoholu ""Pomocna Dłoń"", ul. Strzelców Bytomskich 450, 41-935 Bytom",3,1,0,1
+"Dom Pomocy Społecznej dla Kombatantów, ul. Powstańców Śląskich 4, 35-610 Rzeszów",568,514,41,121
+"Dom Pomocy Społecznej dla Osób w Podeszłym Wieku oraz Osób Niepełnosprawnych Fizycznie w Rzeszowie, ul. mjr. Henryka Sucharskiego 1, 35-225 Rzeszów",5,11,4,13
+"Dom Pomocy Społecznej dla osób przewlekle psychicznie chorych w Ząbkowicach Śląskich, ul. Szpitalna 3, 57-200 Ząbkowice Śląskie",9,2,6,3
+"Dom Pomocy Społecznej i Zakład Opiekuńczo-Leczniczy w Zatorze, ul. Jana Pawła II 3, 32-640 Zator",10,7,7,11
+"Dom Pomocy Społecznej im. dr. Józefa Marcelego Kopicza w Szpęgawsku, ul. Kasztanowa 23, 83-200 Szpęgawsk",7,12,6,32
+"Dom Pomocy Społecznej im. prof. Antoniego Kępińskiego, ul. Jagiellońska 76, 25-734 Kielce",12,10,11,15
+"Dom Pomocy Społecznej w Cisewiu, Cisewie 35, 83-440 Cisewie",11,26,9,30
+"Dom Pomocy Społecznej w Inowrocławiu, ul. Macieja Wierzbińskiego 49, 88-100 Inowrocław",20,11,18,24
+"Dom Pomocy Społecznej w Klisinie Filia w Głubczycach, ul. Dworcowa 10, 48-100 Głubczyce",20,6,17,7
+"Dom Pomocy Społecznej w Przatówku, Przatówek 1, 98-240 Szadek",2,6,1,10
+"Dom Pomocy Społecznej w Rudkach, Rudki 89, 28-225 Szydłów",8,2,7,7
+"Dom Pomocy Społecznej w Warzynie, Warzyn 1, 88-140 Gniewkowo",11,8,9,15
+"Dom Pomocy Społecznej Św. Barbary, ul. Ogrodowa 1, 97-410 Kleszczów",7,5,5,21
+"Dom Pomocy Społecznej św. Wincentego, ul. Powstańców 45, 41-500 Chorzów",12,12,10,21
+"Dom Pomocy Społecznej „Jawor” w Jałówce, Jałówka ul. Leśna 11, 16-050 Michałowo",7,10,5,15
+"Dom Pomocy Społecznej, Wiśnicze ul. Wiejska 42A, 44-187 Wielowieś",14,12,13,19
+"Dom Pomocy Społecznej, ul. Mączna 3, 54-131 Wrocław",12,29,11,45
+"Dom Pomocy Społecznej, ul. Nawojowska 159, 33-300 Nowy Sącz",5,15,4,22
+"Dom Pomocy Społecznej, ul. Winiarska 26, 62-800 Kalisz",31,39,30,57
+"Dom Seniora ""Pomocna Dłoń"" Caritas Archidiecezji Łódzkiej, Kaszewice 11A, 97-415 Kluki",6,5,5,6
+"Dom Seniora - Sobięcin, ul. II Armii 4, 58-305 Wałbrzych",7,0,6,7
+"Dom Strażaka w Hucie Poręby, Huta Poręby 30B, 36-245 Nozdrzec",7,44,5,69
+"Dom Studencki Arka, ul. Karola Olszewskiego 25, 51-642 Wrocław",625,279,19,492
+"Dom im. Błogosławionej Matki Teresy z Kalkuty, ul. Zwierzyniecka 22B, 39-400 Tarnobrzeg",8,29,6,35
+"Dzienny Dom Pomocy Społecznej, ul. Księcia Józefa 1, 05-800 Pruszków",680,361,40,573
+"Ekologiczna Szkoła Społeczna, ul. Kujawska 8A, 84-230 Rumia",761,332,281,670
+"Filia Szkoła Podstawowa Nr 84 im. Waleriana Łukasińskiego, ul. Radzymińska 232, 03-611 Warszawa",884,421,300,709
+"Filia Szkoły Podstawowej Nr 3, ul. Powstańców 60, 05-091 Ząbki",1233,628,303,1532
+"Filia Szkoły Podstawowej nr 154, ul. Sprawna 35A, 03-147 Warszawa",1320,588,1191,1200
+"Filia Żłobka Miejskiego nr 1 ""Króla Maciusia"" w Pruszczu Gdańskim, ul. Eugeniusza Romera 1, 83-000 Pruszcz Gdański",711,209,274,568
+"Fundacja JiM, ul. Tatrzańska 105, 93-279 Łódź",633,329,69,588
+"Fundacja Navicula Centrum, ul. Krzysztofa Cedry 2, 91-129 Łódź",909,367,437,704
+"Gdańska Szkoła Szermierki, Gdańsk ul. VII Dwór 7, 80-301 Gdańsk 5",995,371,727,644
+"Gdański Zespół Schronisk i Sportu Szkolnego Filia SSM, Gdańsk ul. Kartuska 245B, 80-122 Gdańsk 18",767,282,285,485
+"Gminna Biblioteka Publiczna-Filia Turka, ul. Konwaliowa 3, 20-258 Turka",540,424,1,53
+"Gminne Przedszkole w Zamieniu Oddziały Przedszkolne w Zgorzale, ul. Cyraneczki 8, 05-500 Zgorzała",673,202,261,580
+"Gminny Ośrodek Kultury ""SOKÓŁ"", ul. Gdyńska 47, 62-004 Czerwonak",623,228,24,438
+"Gminny Ośrodek Kultury w Dopiewcu, Dopiewiec ul. Szkolna 11, 62-070 Dopiewo",785,177,458,540
+"Gminny Ośrodek Kultury w Stegnie, ul. Gdańska 60, 82-103 Stegna",592,284,10,626
+"Gminny Ośrodek Kultury, Sportu i Rekreacji w Biszczy, Biszcza 50, 23-425 Biszcza",62,200,37,443
+"Grupa Zdrowie Sp. z o.o. Hospicjum Stacjonarne w Głownie, ul. Wojska Polskiego 32/34, 95-015 Głowno",1,2,0,1
+"Hala Gminastyczna przy SP Rusiec, Rusiec ul. Osiedlowa 72, 05-830 Nadarzyn",609,206,10,504
+"Hala Sportowa Akademii Wychowania Fizycznego, ul. Słowiańska 73, 66-400 Gorzów Wielkopolski",684,254,205,626
+"Hala Sportowa OSIR, ul. Obrońców Tobruku 40, 01-494 Warszawa",1262,251,1009,504
+"Hala Sportowa Reduta, ul. Redutowa 37, 01-106 Warszawa",1286,456,477,1022
+"Hala Sportowa, ul. Szarych Szeregów 10, 64-320 Buk",690,400,85,734
+"Hala Sportowa, ul. Wapienicka 120A, 43-384 Jaworze",764,283,178,625
+"Hala Widowiskowo-Sportowa, ul. Mickiewicza 49, 84-230 Rumia",683,260,230,600
+"I Liceum Ogólnokształcące im. Stefana Żeromskiego, ul. Księdza Piotra Ściegiennego 15, 25-033 Kielce",703,308,52,598
+"I Liceum Ogólnokształcące, Gdańsk ul. Wały Piastowskie 6, 80-855 Gdańsk 50",684,234,366,493
+"I Liceum Ogólnokształcące, ul. Alojzego Felińskiego 15, 01-513 Warszawa",884,330,440,500
+"II Liceum Ogólnokształcące im. Adama Asnyka, ul. Jutrzenki 13, 43-300 Bielsko-Biała",962,623,647,1108
+"II Liceum Ogólnokształcące im. Generałowej Zamoyskiej i Heleny Modrzejewskiej, ul. Jana Matejki 8/10, 60-766 Poznań",1069,250,1042,624
+"II Liceum Ogólnokształcące z Oddziałami Integracyjnymi im. Cypriana Kamila Norwida w Tychach, ul. Cypriana Norwida 40, 43-100 Tychy",722,292,48,556
+"II Liceum Ogólnokształcące, ul. Myśliwiecka 6, 00-459 Warszawa",645,241,58,415
+"III Liceum Ogólnokształcące im. Tadeusza Kościuszki w Łodzi, ul. Henryka Sienkiewicza 46, 90-009 Łódź",753,278,303,553
+"III Liceum Ogólnokształcące, ul. Rogalińska 2, 01-206 Warszawa",102,313,45,659
+"IV Liceum Ogólnokształcące im. Adama Mickiewicza, ul. Saska 59, 03-914 Warszawa",1070,430,841,723
+"IV Liceum Ogólnokształcące z Oddziałami Mistrzostwa Sportowego, Gdańsk ul. Na Zaspę 31A, 80-546 Gdańsk 4",644,340,10,638
+"IX Liceum Ogólnokształcące, ul. Orłowska 57, 81-542 Gdynia",1131,345,748,610
+"Kamiliańskie Centrum Opiekuńczo – Lecznicze w Hutkach, Hutki ul. Jurajska 36, 32-329 Bolesław",14,29,12,39
+"Klub ""Jutrzenka"", Kicin ul. Nowe Osiedle 2, 62-004 Czerwonak",795,299,257,563
+"Klub WSBM ""Chomiczówka"", ul. Pabla Nerudy 1, 01-926 Warszawa",921,438,624,786
+"Klub Wojskowej Akademii Technicznej, ul. gen. Sylwestra Kaliskiego 25, 01-476 Warszawa",785,257,223,714
+"Klub w Wołczkowie, Wołczkowo ul. Lipowa 11A, 72-003 Dobra",719,231,118,432
+"Kompleks Rekreacyjno-Sportowy, ul. Moniuszki 8, 72-346 Pobierowo",605,338,482,764
+"Kompleks sportowo-rekreacyjny, ul. Leśna 1, 72-350 Niechorze",696,368,531,845
+"LXIV Liceum Ogólnokształcące, ul. Elbląska 51, 01-737 Warszawa",1817,633,1099,1184
+"LXVII Liceum Ogólnokształcące, ul. Hoża 11/15, 00-528 Warszawa",725,360,245,587
+"LXXII Liceum Ogólnokształcące im. Jakuba Jasińskiego, ul. Grochowska 346/348, 03-838 Warszawa",874,441,758,790
+"LXXXVI Liceum Ogólnokształcące, ul. Kajetana Garbińskiego 1, 01-122 Warszawa",1115,567,902,998
+"Liceum Ogólnokształcące Mistrzostwa Sportowego im. Poznańskich Olimpijczyków, os. Tysiąclecia 43, 61-255 Poznań",1196,511,892,828
+"Liceum Ogólnokształcące Nr 56, ul. Dzieci Warszawy 42, 02-495 Warszawa",678,244,81,528
+"Liceum Ogólnokształcące Nr LXIII, ul. Ludwika Hirszfelda 11, 02-776 Warszawa",812,158,325,352
+"Liceum Ogólnokształcące ZNP, ul. Scaleniowa 6, 93-436 Łódź",676,346,9,589
+"Liceum Ogólnokształcące im. Tadeusza Kościuszki, ul. Tadeusza Kościuszki 38, 05-800 Pruszków",605,305,30,524
+"Liceum Ogólnokształcące nr LXIII, ul. Ludwika Hirszfelda 11, 02-776 Warszawa",725,286,170,481
+"Liceum Ogólnokształcące nr LXX, ul. Edwarda Dembowskiego 1, 02-784 Warszawa",1298,478,1091,815
+"Liceum Ogólnokształcące nr V, ul. Jacka Kuronia 14, 50-550 Wrocław",828,282,412,544
+"Liceum Ogólnokształcące nr VI, ul. Hutnicza 45, 54-139 Wrocław",890,544,632,1078
+"Liceum Ogólnokształcące nr XIV, al. Aleksandra Brücknera 10, 51-410 Wrocław",771,395,439,758
+"Lokal Rady Osiedla Chojny, ul. Rzgowska 151, 93-303 Łódź",627,355,52,616
+"Lokal Rady Osiedla Dolina Łódki, ul. Beskidzka 172, 91-610 Łódź",654,304,136,569
+"Lokal użytkowy, pl. Plac Konstytucji 6, 00-550 Warszawa",842,334,408,560
+"MDK ""Dom Harcerza"", ul. Władysława Reymonta 18, 30-059 Kraków",367,133,134,440
+"MDK, ul. Hansa Christiana Andersena 4, 01-911 Warszawa",718,344,131,559
+"Małopolski Szpital Rehabilitacyjny w Krzeszowicach, ul. I. Daszyńskiego 1, 32-065 Krzeszowice",50,65,44,89
+"Miejsce Aktywności Lokalnej Dom Sąsiedzki, ul. gen. Tadeusza Pełczyńskiego 30B, 01-471 Warszawa",761,177,357,434
+"Miejsce Aktywności Lokalnej, ul. Kłobucka 14, 02-829 Warszawa",828,296,685,681
+"Miejska Biblioteka Publiczna Filia nr 14 Centrum Aktywności Lokalnej Dobre Czasy na Jagodnie, ul. Sygnałowa 23, 52-130 Wrocław",483,113,20,329
+"Miejski Dom Kultury ""Południe"" Filia nr 3 w Zarzeczu, ul. Pawła Stellera 4, 40-748 Katowice",894,302,404,548
+"Miejski Dom Kultury Galeria ""ART"", ul. Wojska Polskiego 1/1, 72-600 Świnoujście",698,270,74,556
+"Miejski Dom Spokojnej Starości w Ustroniu, ul. Słoneczna 10, 43-450 Ustroń",9,7,8,13
+"Miejski Klub Seniora ""Wielki Kack"", ul. Lipowa 15, 81-572 Gdynia",965,197,510,416
+"Miejski Ośrodek Pomocy Rodzinie, Centrum Pracy Socjalnej 9, Gdańsk ul. Piekarnicza 16, 80-126 Gdańsk 16",720,127,215,336
+"Miejski Ośrodek Sportu i Rekreacji Hala Akrobatyczna, ul. Urszuli 22, 65-147 Zielona Góra",1225,372,979,869
+"Miejski Szpital Zespolony w Olsztynie, Centrum Opieki Paliatywnej im. Jana Pawła II, ul. Aleja Wojska Polskiego 30, 10-229 Olsztyn",13,3,10,4
+"Miejskie Przedsiębiorstwo Oczyszczania, ul. Instalatorów 23, 02-237 Warszawa",711,240,656,627
+"Miejskie Przedszkole Nr 18, ul. Leopolda Staffa 6, 59-220 Legnica",679,384,73,661
+"Morska Szkoła Podstawowa Gdańsk-Południe, Gdańsk ul. Srebrna 11, 80-180 Gdańsk 42",2440,751,1846,2110
+"Morskie Przedszkole, Gdańsk ul. Rogalińska 17, 80-809 Gdańsk 20",957,214,681,500
+"Młodzieżowy Dom Kultury, ul. Na Wrzosach 57, 30-816 Kraków",537,302,42,581
+"Młodzieżowy Ośodek Socjoterapii ""Dom Na Trakcie"", inne Trakt Lubelski 40, 04-870 Warszawa",1854,696,921,1367
+"Narodowy Instytut Onkologii im. M. Skłodowskiej-Curie-Państwowy Instytut Badawczy Oddział w Krakowie, ul. Garncarska 11, 31-115 Kraków",23,28,20,31
+"Niepubliczna Szkoła Podstawowa Nr 7, ul. Jana Kilińskiego 38, 76-200 Słupsk",639,278,9,610
+"Niepubliczne Przedszkole Kreatywne ""Wesoła Przygoda"", ul. Poprzeczna 2a, 64-920 Piła",884,190,409,513
+"Niepubliczny Zakład Opieki Zdrowotnej Centrum Medyczne ''Epimigren"", ul. Botaniczna 38, 86-031 Osielsko",5,5,2,7
+"Niepubliczny Zakład Opieki Zdrowotnej Dom Sue Ryder prowadzony przez Pallmed sp. z o. o. Hospicjum Stacjonarne, ul. Wilhelma Roentgena 3, 85-796 Bydgoszcz",1,2,0,2
+"Niepubliczny Zespół Zakładów Opieki Zdrowotnej ""Palium"" w Sońsku, ul. Zacisze 1, 06-430 Sońsk",6,14,5,32
+"Obiekt Sportowo-Rekreacyjny ""Syrenka"", ul. Starego Doktora 1, 04-551 Warszawa",580,293,19,551
+"Oddział Fizjoterapii i Rehabilitacji w Stanisławowie Szpitala Zespołu Opieki Zdrowotnej w Łowiczu, Rulice 31, 99-423 Bielawy",11,22,8,32
+"Oddział Szkoły Podstawowej nr 221, ul. Żelazna 71, 00-871 Warszawa",664,192,76,391
+"Ogólnokształcąca Szkoła Baletowa, Gdańsk al. Aleja Legionów 3, 80-441 Gdańsk 6",535,225,30,430
+"Operator ARP Sp. z o. o., ul. 28 Czerwca 1956 r. 223 - 229, 61-485 Poznań",579,185,25,402
+"Osiedlowy Dom Kultury PSM ""KOLEJARZ"", Gdańsk ul. Kołobrzeska 25E, 80-390 Gdańsk 53",709,231,447,493
+"Ośrodek Pomocy Społecznej Dzielnicy Bemowo, ul. gen. Tadeusza Pełczyńskiego 26, 01-471 Warszawa",1586,533,864,1244
+"Ośrodek Postaw Twórczych Zamek, ul. Działkowa 15, 50-538 Wrocław",730,238,205,487
+"Ośrodek Wsparcia i Integracji ""Maja"", ul. Belgradzka 33, 02-793 Warszawa",715,300,158,456
+"PGNiG Obrót Detaliczny sp. z o. o. Region Dolnośląski-budynek G, ul. Gazowa 3, 50-513 Wrocław",814,279,771,679
+"Palium Sp. z o.o. w Nowym Mieście Zakład Opiekuńczo-Leczniczy w Starej Wronie, Stara Wrona 19, 09-131 Joniec",7,10,6,18
+"Pałac Kultury i Nauki, wejście od pływalni Pałacu Młodzieży, pl. Plac Defilad 1, 00-110 Warszawa",986,477,871,839
+"Państwowa Akademia Nauk Stosowanych, ul. Piotra Skargi 5, 67-200 Głogów",614,296,20,681
+"Państwowe Liceum Sztuk Plastycznych im. Piotra Potworowskiego w Poznaniu, ul. Junikowska 35, 60-163 Poznań",1225,415,1027,833
+Petro Giant,21,4,16,12
+"Piątkowska Szkoła Społeczna Szkoła Podstawowa im. dr Wandy Błeńskiej, ul. Franciszka Stróżyńskiego 16, 60-688 Poznań",900,258,587,514
+"Politechnika Poznańska, ul. Jana Pawła II 28, 61-131 Poznań",256,235,126,837
+"Politechnika Warszawska, Wydział Elektroniki i Technik Informacyjnych, ul. Nowowiejska 15/19, 00-665 Warszawa",833,398,424,661
+"Poradnia Psychologiczno-Pedagogiczna Nr 21, ul. Marywilska 44, 03-042 Warszawa",577,272,245,739
+"Poradnia Psychologiczno-Pedagogiczna nr 16, ul. Siennicka 40, 04-393 Warszawa",603,296,422,684
+"Poradnia Psychologiczno-Pedagogiczna nr 4, ul. Mińska 1/5, 03-806 Warszawa",558,246,50,447
+"Powiatowe Centrum Edukacyjno-Rewalidacyjne, ul. Jarosława Iwaszkiewicza 9A, 55-200 Oława",765,290,254,688
+"Powiatowe Centrum Zdrowia Sp. z o. o. Szpital Powiatowy, ul. Kościelna 21, 59-600 Lwówek Śląski",7,2,5,2
+"Powiatowe Centrum Zdrowia Sp. z o. o. w Lwówku Śląskim-Szpital im. Hugona Kołłątaja w Gryfowie Śląskim, ul. Rzeczna 25, 59-620 Gryfów Śląski",9,5,8,10
+"Powiatowy Młodzieżowy Dom Kultury im. H. Jordana, ul. Gliwicka 36, 42-600 Tarnowskie Góry",703,348,175,688
+"Powiatowy Urząd Pracy, ul. Rzeźnicza 12, 41-200 Sosnowiec",820,363,290,678
+"Powiatowy Zespół Zakładów Opieki Zdrowotnej w Będzinie-Oddział w Czeladzi, ul. Szpitalna 40, 41-250 Czeladź",32,16,30,21
+"Poznańskie Ośrodki Sportu i Rekreacji, ul. Jana Spychalskiego 34, 61-553 Poznań",654,207,337,450
+"Prom Kultury Saska Kępa, ul. Brukselska 23, 03-973 Warszawa",1434,491,1202,785
+"Prywatna Szkoła Podstawowa Nr 92, ul. Patriotów 347, 04-760 Warszawa",718,397,55,648
+"Prywatna Szkoła Podstawowa im. Jana Brzechwy, ul. Harfowa 2, 02-384 Warszawa",734,175,284,358
+"Prywatna Szkoła Podstawowa im. Jana Brzechwy, ul. Harfowa 2, 02-397 Warszawa",796,143,495,354
+"Prywatna Szkoła Podstawowa im. Jana Brzechwy, ul. Przy Parku 36, 02-384 Warszawa",957,161,570,408
+"Prywatna Szkoła Podstawowa nr 92, ul. Patriotów 347, 04-760 Warszawa",658,365,7,688
+"Przedsiębiorstwo KSTU Krakowskie Centrum Terapii Uzależnień, ul. Wielicka 73, 30-552 Kraków",628,347,226,699
+"Przedszkole ""Wesołe Skrzaty"" w Pobiedziskach, ul. Różana 4, 62-010 Pobiedziska",744,292,216,609
+"Przedszkole Miejskie Nr 11, ul. Zegrzyńska 9, 05-119 Legionowo",737,285,149,570
+"Przedszkole Miejskie Nr 13, ul. Antka 7, 05-800 Pruszków",699,420,113,736
+"Przedszkole Miejskie Nr 3 im. Koszałka Opałka, ul. Zegrzyńska 71, 05-119 Legionowo",744,368,195,735
+"Przedszkole Miejskie Nr 5, hol (I piętro), ul. gen. Stanisława Maczka 11, 10-693 Olsztyn",652,208,145,518
+"Przedszkole Miejskie Nr 5, sala kraina uśmiechu (parter), ul. gen. Stanisława Maczka 11, 10-693 Olsztyn",594,194,20,473
+"Przedszkole Miejskie Nr 8, ul. Chabrowa 49, 87-100 Toruń",721,398,52,592
+"Przedszkole Miejskie nr 170, ul. Ks. Jerzego Popiełuszki 13A, 94-052 Łódź",925,225,674,584
+"Przedszkole Miejskie nr 18, ul. Konrada Grasera 3, 87-100 Toruń",694,202,395,656
+"Przedszkole Miejskie nr 4, ul. Andrzeja Kmicica 5, 92-433 Łódź",2368,949,1663,1662
+"Przedszkole Niepubliczne ""JANOWIACZEK"", ul. Pomorska 27, 84-230 Rumia",715,256,72,494
+"Przedszkole Nr 2, ul. Staroprzygodzka 52, 63-400 Ostrów Wielkopolski",666,307,17,620
+"Przedszkole Nr 214, ul. gen. Waleriana Czumy 6, 01-355 Warszawa",815,343,248,616
+"Przedszkole Nr 24, ul. Jana Brzechwy 5, 82-300 Elbląg",1285,641,864,1070
+"Przedszkole Nr 330 ""Pod Modrzewiem"", al. Aleja Niepodległości 17, 02-653 Warszawa",922,362,496,616
+"Przedszkole Nr 390, ul. Secemińska 1, 01-485 Warszawa",967,402,466,660
+"Przedszkole Nr 391, ul. Czerniakowska 20A, 00-714 Warszawa",666,212,48,428
+"Przedszkole Nr 426, ul. Boguszewska 4, 01-250 Warszawa",662,111,428,432
+"Przedszkole Nr 67 ""Służewiaczek"", ul. Sonaty 6A, 02-744 Warszawa",793,335,331,560
+"Przedszkole Nr 71, ul. Śląska 50/52, 02-462 Warszawa",569,246,1,506
+"Przedszkole Nr 8, ul. Jana z Kolna 3, 81-746 Sopot",962,253,448,440
+"Przedszkole Nr 86, Gdańsk ul. Dywizjonu 303 nr 27, 80-462 Gdańsk 22",1600,634,648,1024
+"Przedszkole Publiczne ""Edulica"", ul. Jana Kazimierza 48/U1, 01-248 Warszawa",1381,351,278,1114
+"Przedszkole Publiczne Nr 10, ul. Wołogoska 5, 71-131 Szczecin",722,256,46,407
+"Przedszkole Publiczne Nr 14, ul. Ks. bpa Władysława Bandurskiego 56, 71-685 Szczecin",703,339,24,571
+"Przedszkole Publiczne Nr 37, ul. Jesionowa 8, 45-409 Opole",657,185,41,374
+"Przedszkole Publiczne nr 10, ul. Adama Asnyka 6, 47-100 Strzelce Opolskie",311,107,223,416
+"Przedszkole Samorządowe nr 5, os. Osiedle 700-lecia 9, 63-600 Kępno",777,348,77,636
+"Przedszkole Ujeścisko Sp. z o. o., Gdańsk ul. Płocka 4, 80-180 Gdańsk 42",985,378,747,711
+"Przedszkole nr 126, ul. Wokalna 1, 02-787 Warszawa",904,325,577,607
+"Przedszkole nr 148 „Mali Europejczycy”, os. Bolesława Chrobrego 121, 60-681 Poznań",784,285,286,481
+"Przedszkole nr 15 „Calineczka”, ul. św. Antoniego 42, 61-359 Poznań",633,249,11,532
+"Przedszkole nr 179, ul. Jarocińska 12/14, 04-171 Warszawa",669,353,156,625
+"Przedszkole nr 189, os. Bolesława Śmiałego 105, 60-682 Poznań",742,239,274,425
+"Przedszkole nr 212, ul. Czesława Ludwika Rybińskiego 2, 01-611 Warszawa",643,255,110,440
+"Przedszkole nr 267, ul. Witolda Małcużyńskiego 4, 02-793 Warszawa",1510,271,217,536
+"Przedszkole nr 286, ul. Mandarynki 1, 02-796 Warszawa",875,222,425,440
+"Przedszkole nr 340, ul. Wojciecha Bogusławskiego 8A, 01-923 Warszawa",1359,592,1114,992
+"Przedszkole nr 395, ul. Na Uboczu 9, 02-791 Warszawa",1361,457,1271,642
+"Przedszkole nr 400, ul. Eugeniusza Lokajskiego 2, 02-793 Warszawa",796,305,226,498
+"Przedszkole nr 412, ul. Pála Telekiego 8, 02-793 Warszawa",956,169,510,415
+"Przedszkole nr 416, ul. Syta 123, 02-987 Warszawa",841,147,243,357
+"Przedszkole nr 422, ul. Brązownicza 17, 01-929 Warszawa",984,486,470,767
+"Przedszkole nr 425, ul. Tadeusza Rechniewskiego 11A, 03-980 Warszawa",772,224,230,415
+"Przedszkole nr 436, ul. Sarmacka 4, 02-972 Warszawa",875,131,413,325
+"Przedszkole nr 44, ul. Ludna 8, 00-406 Warszawa",900,380,539,624
+"Przedszkole nr 44, ul. Tatarczana 4, 81-591 Gdynia",852,362,255,532
+"Przedszkole nr 86 „Tęczowy Świat”, ul. Juliusza Słowackiego 15, 60-822 Poznań",515,133,89,293
+"Przedszkole nr 87, ul. Jacka Woronieckiego 11, 20-492 Lublin",567,303,11,702
+"Przedszkole z Oddziałami Integracyjnymi nr 309, ul. Hansa Christiana Andersena 7, 01-893 Warszawa",559,274,30,469
+"Przedszkole z oddziałami integracyjnymi Nr 326 ""Chatka Skrzatka"", ul. Bernardyńska 14, 02-904 Warszawa",931,230,405,431
+"Przedszkole z oddziałami integracyjnymi w Glinnie, Glinno ul. Działkowa 30, 64-300 Nowy Tomyśl",648,220,142,547
+"Przyjazny Szpital w Połczynie-Zdroju, ul. Szpitalna 5, 78-320 Połczyn-Zdrój",12,9,7,6
+"Przystań Lipowa 15, ul. Lipowa 15, 81-572 Gdynia",985,165,491,378
+"Publiczna Katolicka Szkoła Podstawowa im. św. Joanny Beretty Molli, ul. Stelmachów 137, 31-349 Kraków",807,234,541,561
+"Publiczna Szkoła Podstawowa HEVELIUS, Gdańsk ul. Sucha 29, 80-531 Gdańsk 4",959,299,295,957
+"Publiczna Szkoła Podstawowa Nr 14, ul. Szymona Koszyka 21, 45-720 Opole",744,255,173,484
+"Publiczna Szkoła Podstawowa Nr 26, ul. Groszowicka 12, 45-517 Opole",904,256,401,492
+"Publiczna Szkoła Podstawowa Nr 3, klasa nr 3, ul. Ignacego Krasickiego 25, 46-300 Olesno",403,173,378,637
+"Publiczna Szkoła Podstawowa Nr 30, ul. Nyska 1A, 45-940 Opole",891,240,404,530
+"Publiczna Szkoła Podstawowa w Dobrej, ul. Poziomkowa 5, 72-003 Dobra",1372,367,1067,757
+"Publiczna Szkoła Podstawowa w Dołujach, ul. Daniela 18, 72-002 Dołuje",783,251,358,605
+"Publiczna Szkoła Podstawowa, Miłoszyce ul. Główna 24, 55-220 Jelcz-Laskowice",604,383,50,791
+"Publiczna Szkoła Podstawowa, ul. Górna 3, 71-218 Bezrzecze",1746,364,603,766
+"Publiczna Szkoła Podstawowa, ul. Kolorowa 27, 72-006 Mierzyn",2782,741,2213,1529
+"Publiczna Szkoła i Przedszkole MARCO POLO, ul. Zatorska 11, 51-215 Wrocław",576,315,42,585
+"Pływalnia Delfin, ul. Marcina Kasprzaka 1/3, 01-211 Warszawa",803,268,531,518
+"Rada Osiedla Bukowo, ul. Pokoju 49/U1, 71-739 Szczecin",736,289,130,523
+"Rada Osiedla Jagodno, ul. Jagodzińska 15, 52-129 Wrocław",624,217,111,456
+"Rada Osiedla Świniary, ul. Pęgowska 14, 51-180 Wrocław",568,291,169,695
+"Ratusz, al. Aleja Krakowska 257, 02-133 Warszawa",869,296,187,993
+"Remiza OSP w Rokietnicy, ul. Szkolna 18B, 62-090 Rokietnica",790,177,387,463
+"Remiza Ochotniczej Straży Pożarnej w Majkowicach, Majkowice 55, 32-120 Nowe Brzesko",19,70,18,104
+"Remiza Ochotniczej Straży Pożarnej, ul. Warszawska 15, 05-830 Nadarzyn",648,284,73,644
+"Rewir II Dzielnicowych w Jeleniej Górze, ul. Jana Kiepury 32, 58-506 Jelenia Góra",734,262,44,483
+"Rzeszowski Dom Kultury, ul. Jana Olbrachta 120, 35-614 Rzeszów",596,558,40,227
+"S. B. M. ""WARDOM"", ul. Jana Kochanowskiego 49, 01-864 Warszawa",889,319,404,555
+"SAWIMED Sp. z o. o., Sawice-Wieś 19, 08-307 Repki",5,13,2,22
+"SP ZOZ Szpital Powiatowy im. Edmunda Biernackiego w Opocznie, ul. Partyzantów 30, 26-300 Opoczno",4,22,2,22
+"SP ZOZ Szpital Powiatowy w Lubaczowie, ul. Adama Mickiewicza 168, 37-600 Lubaczów",9,29,8,47
+"SP ZZOZ Szpital w Iłży, Iłża ul. Danuty Siedzikówny ""Inki"" 4, 27-100 IŁŻA",6,3,1,9
+"SPZOZ Szpital im. dr. J. Dietla, ul. Józefa Ignacego Kraszewskiego 142, 33-380 Krynica-Zdrój",8,12,4,20
+"Sala Wystawiennicza w Rewalu, ul. Słowackiego 1, 72-344 Rewal",513,256,184,793
+"Sala w budynku przy ul. Damrota 5 w Pilchowicach, ul. Damrota 5, 44-145 Pilchowice",660,343,24,731
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji Centrum Rehabilitacji, Górzno 63, 64-120 Krzemieniewo",43,27,40,40
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kole, ul. Józefa Poniatowskiego 25, 62-600 Koło",8,7,6,14
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kępnie, Szpital w Kępnie, Oddział Leczniczo-Rehabilitacyjny w Grębaninie, Grębanin 97, 63-604 Baranów",12,14,11,33
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie, ul. Anny Dobrskiej 1, 06-500 Mława",11,10,9,16
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowym Mieście nad Pilicą, ul. Tomaszowska 43, 26-420 Nowe Miasto nad Pilicą",2,13,1,12
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sokółce, ul. gen. Władysława Sikorskiego 40, 16-100 Sokółka",10,30,8,43
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Szamotułach, ul. Sukiennicza 13, 64-500 Szamotuły",10,2,6,7
+"Samodzielny Publiczny Zespół Opieki Zdrowotnej w Proszowicach, ul. Mikołaja Kopernika 13, 32-100 Proszowice",16,20,15,30
+"Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Marszałka Józefa Piłsudskiego w Płońsku, ul. Henryka Sienkiewicza 7, 09-100 Płońsk",21,34,17,48
+"Samorządowa Szkoła Podstawowa nr 6, ul. Słowackiego 41, 62-300 Września",630,337,110,725
+"Sanatorium Uzdrowiskowe Rolnik w Nałęczowie, ul. Michała Górskiego 14, 24-150 Nałęczów",60,41,59,53
+"Siedziba Rady Osiedla Księże, ul. Rybnicka 39-41, 52-016 Wrocław",652,216,253,565
+"Specjalistyczne Centrum Medyczne im. św. Jana Pawła II, budynek D, ul. Jana Pawła II 2, 57-320 Polanica-Zdrój",5,7,4,10
+"Specjalistyczny Szpital Onkologiczny Nu-Med Sp. z o.o., ul. Jana Pawła II 35, 97-200 Tomaszów Mazowiecki",6,5,5,9
+"Specjalny Ośrodek Szkolno-Wychowawczy dla dzieci słabosłyszących nr 15 im. Ottona Lipkowskiego, ul. Twarda 8/12, 00-105 Warszawa",907,403,556,700
+"Sportowa Szkoła Podstawowa nr 3 im. Józefa Jaworskiego w Aleksandrowie Łódzkim, ul. Bankowa 7, 95-070 Aleksandrów Łódzki",635,464,46,771
+"Społeczny Zespół Przedszkolno-Szkolny 101 w Olsztynie, sala szafirowa (parter), ul. Edwarda Mroza 25, 10-692 Olsztyn",721,325,267,726
+"Spółdzielnia Mieszkaniowa ""Pienista"", ul. Kubusia Puchatka 9, 94-119 Łódź",702,223,41,375
+"Spółdzielnia Mieszkaniowa w Aleksandrowie Łódzkim, ul. Romana Dmowskiego 1, 95-070 Aleksandrów Łódzki",718,433,158,754
+"Stowarzyszenie Domu Opieki „Złota Jesień”, Gdańsk ul. Franciszka Hynka 12, 80-465 Gdańsk 22",18,24,17,31
+"Stowarzyszenie Szkoły Gedanensis, Gdańsk ul. Dworska 34, 80-506 Gdańsk 26",940,481,709,874
+"Stołeczne Centrum Sportu Aktywna Warszawa, ul. Solec 71, 00-402 Warszawa",636,294,97,424
+"Szkoła Muzyczna I Stopnia Nr 1, ul. Pilotów 51, 31-462 Kraków",601,264,43,458
+"Szkoła Podstawowa 323, ul. Edwarda Warchałowskiego 4, 02-776 Warszawa",1468,569,275,1000
+"Szkoła Podstawowa Hala Sportowa, ul. Żeromskiego 11, 81-198 Kosakowo",627,217,120,525
+"Szkoła Podstawowa Integracyjna Nr 317, ul. Deotymy 37, 01-409 Warszawa",746,475,325,753
+"Szkoła Podstawowa Integracyjna Nr 339 im. Raoula Wallenberga, ul. św. Bonifacego 10, 02-914 Warszawa",780,355,360,593
+"Szkoła Podstawowa Nr 1 im. J. Korczaka w Komornikach, ul. Staszica 25, 62-052 Komorniki",763,197,249,477
+"Szkoła Podstawowa Nr 1 im. J. i T. Działyńskich w Plewiskach, ul. Szkolna 64, 62-064 Plewiska",1735,398,926,941
+"Szkoła Podstawowa Nr 1 im. ks. prałata Józefa Bigusa, ul. Tuchomska 15, 80-297 Banino",1212,401,1209,1058
+"Szkoła Podstawowa Nr 1 w Miliczu, ul. Armii Krajowej 7, 56-300 Milicz",675,394,33,692
+"Szkoła Podstawowa Nr 1, ul. Józefa Brandta 22, 05-820 Piastów",652,492,78,854
+"Szkoła Podstawowa Nr 1, ul. Konstytucji 3 Maja 20, 43-190 Mikołów",626,303,7,561
+"Szkoła Podstawowa Nr 1, ul. Kościelna 6, 84-230 Rumia",770,290,259,657
+"Szkoła Podstawowa Nr 1, ul. Władysława Reymonta 80, 41-250 Czeladź",686,233,37,398
+"Szkoła Podstawowa Nr 103 im. Bohaterów Warszawy 1939 - 1945, ul. Bolesława Limanowskiego 9, 02-943 Warszawa",890,351,387,598
+"Szkoła Podstawowa Nr 11, ul. Legionu Puławskiego 8, 24-100 Puławy",1446,1377,1216,2284
+"Szkoła Podstawowa Nr 112, ul. Zaułek 34, 03-289 Warszawa",2025,807,597,1821
+"Szkoła Podstawowa Nr 114, ul. Łąkowa 31, 31-443 Kraków",1042,443,297,963
+"Szkoła Podstawowa Nr 115 im. Wandy Turowskiej, ul. Okrężna 80, 02-933 Warszawa",898,241,306,387
+"Szkoła Podstawowa Nr 118, ul. Leszczynowa 5, 03-197 Warszawa",1436,601,804,1461
+"Szkoła Podstawowa Nr 118, ul. Myśliborska 25, 03-185 Warszawa",622,220,145,573
+"Szkoła Podstawowa Nr 12, Gdańsk ul. Człuchowska 6, 80-180 Gdańsk 42",3623,1206,1475,2552
+"Szkoła Podstawowa Nr 13 im. Władysława Jagiełły, ul. Lipnicka 226, 43-300 Bielsko-Biała",687,446,79,755
+"Szkoła Podstawowa Nr 134, ul. Kłuszyńska 46, 30-499 Kraków",929,553,614,1151
+"Szkoła Podstawowa Nr 14, ul. Profesora Wojciecha Marii Bartla 29, 30-389 Kraków",1656,700,1277,1716
+"Szkoła Podstawowa Nr 14, ul. gen. Kazimierza Sosnkowskiego 10, 02-495 Warszawa",590,234,76,531
+"Szkoła Podstawowa Nr 146 im. Janusza Korczaka, ul. Domaniewska 33, 02-672 Warszawa",1313,516,412,970
+"Szkoła Podstawowa Nr 15, Gdańsk ul. Mariana Smoluchowskiego 13, 80-214 Gdańsk 6",586,233,54,389
+"Szkoła Podstawowa Nr 150, ul. gen. Wiktora Thomméego 1, 01-491 Warszawa",1387,389,1030,814
+"Szkoła Podstawowa Nr 156, ul. Centralna 39, 31-586 Kraków",1867,1019,1408,2501
+"Szkoła Podstawowa Nr 16 budynek A, ul. Wilczy Dół 4, 02-798 Warszawa",921,227,436,446
+"Szkoła Podstawowa Nr 16, ul. Chobolańska 20, 71-023 Szczecin",1737,658,1603,1194
+"Szkoła Podstawowa Nr 19, Gdańsk ul. Emilii Hoene 6, 80-041 Gdańsk 7",2612,1032,1181,1887
+"Szkoła Podstawowa Nr 190 im. Orła Białego, ul. Zwierzyniecka 10, 00-719 Warszawa",753,358,191,589
+"Szkoła Podstawowa Nr 191 im. Józefa Ignacego Kraszewskiego, ul. Bokserska 30, 02-682 Warszawa",1293,419,1160,815
+"Szkoła Podstawowa Nr 191 im. Józefa Ignacego Kraszewskiego, ul. Piotra Gruszczyńskiego 12, 02-693 Warszawa",1146,345,883,636
+"Szkoła Podstawowa Nr 2 - Ośrodek Rehabilitacji Dzieci Niepełnosprawnych, ul. Michała Hubego 1, 77-400 Złotów",715,260,65,532
+"Szkoła Podstawowa Nr 2 im. Chwały Oręża Polskiego w Giżycku, ul. Warszawska 39, 11-500 Giżycko",630,309,43,577
+"Szkoła Podstawowa Nr 2 im. Orła Białego w Chotomowie, ul. Partyzantów 23, 05-123 Chotomów",1896,937,1116,1832
+"Szkoła Podstawowa Nr 2 w Plewiskach, ul. prof. Wacława Strażewicza 1, 62-064 Plewiska",1581,390,617,874
+"Szkoła Podstawowa Nr 2 w Siechnicach, ul. Osiedlowa 2, 55-011 Siechnice",797,374,460,887
+"Szkoła Podstawowa Nr 2 z Oddziałami Sportowymi, Gdańsk ul. Heleny Marusarzówny 10, 80-288 Gdańsk 44",4605,1463,2660,2747
+"Szkoła Podstawowa Nr 2, ul. Lotnicza 15, 80-297 Banino",1512,509,506,1155
+"Szkoła Podstawowa Nr 2, ul. Orłów Piastowskich 47, 02-496 Warszawa",1223,700,989,1328
+"Szkoła Podstawowa Nr 2, ul. Sienkiewicza 2, 05-410 Józefów",673,404,130,703
+"Szkoła Podstawowa Nr 2, ul. Szkolna 9, 05-270 Marki",1078,863,951,1694
+"Szkoła Podstawowa Nr 2, ul. Tysiąclecia 5, 83-000 Pruszcz Gdański",1002,426,579,857
+"Szkoła Podstawowa Nr 205 im. Żołnierzy Powstania Warszawskiego, ul. Spartańska 4, 02-637 Warszawa",1562,279,807,446
+"Szkoła Podstawowa Nr 21, ul. Batalionu ""Skała"" AK 12, 31-272 Kraków",1655,797,1154,1631
+"Szkoła Podstawowa Nr 212 im. Krystyny Krahelskiej, ul. Czarnomorska 3, 02-758 Warszawa",1612,592,877,1180
+"Szkoła Podstawowa Nr 23, Gdańsk ul. Opacka 7, 80-330 Gdańsk 5",684,191,160,403
+"Szkoła Podstawowa Nr 23, ul. Osikowa 11, 87-100 Toruń",692,232,101,492
+"Szkoła Podstawowa Nr 231, ul. Juranda ze Spychowa 10, 03-257 Warszawa",986,468,848,1088
+"Szkoła Podstawowa Nr 24, Gdańsk ul. Lilli Wenedy 19, 80-419 Gdańsk 6",624,180,27,353
+"Szkoła Podstawowa Nr 24, ul. Piotra Czajkowskiego 11, 35-602 Rzeszów",700,486,216,137
+"Szkoła Podstawowa Nr 25, ul. Wyżynna 3, 82-300 Elbląg",664,328,21,669
+"Szkoła Podstawowa Nr 257, ul. Podróżnicza 11, 03-111 Warszawa",985,416,598,870
+"Szkoła Podstawowa Nr 26 im. Zygmunta Lubertowicza, ul. Złoty Potok 7, 43-300 Bielsko-Biała",776,553,179,895
+"Szkoła Podstawowa Nr 260 im. Jana Matejki, ul. Zakrzewska 24 B, 00-737 Warszawa",837,260,481,527
+"Szkoła Podstawowa Nr 27 w Zespole Szkolno-Przedszkolnym Nr 13, ul. Rubinowa 16A, 44-121 Gliwice",1860,647,1707,1205
+"Szkoła Podstawowa Nr 298 im. Jana Kasprowicza, ul. Krakusa 2, 03-390 Warszawa",815,592,513,1030
+"Szkoła Podstawowa Nr 3 (stołówka), ul. Jabłoniowa 23, 75-679 Koszalin",977,250,480,526
+"Szkoła Podstawowa Nr 307 im. Króla Jana III Sobieskiego, ul. Barcelońska 8, 02-762 Warszawa",1541,592,377,1013
+"Szkoła Podstawowa Nr 316, ul. Stanisława Szobera 1/3, 01-318 Warszawa",1554,815,1385,1353
+"Szkoła Podstawowa Nr 321, ul. ppłk. Wacława Szadkowskiego 3, 01-493 Warszawa",1772,854,717,1348
+"Szkoła Podstawowa Nr 341, ul. Oławska 3, 01-494 Warszawa",1680,721,1562,1236
+"Szkoła Podstawowa Nr 342, ul. Strumykowa 21A, 03-138 Warszawa",2071,690,1289,1416
+"Szkoła Podstawowa Nr 35, ul. Świętoborzyców 40 Blok A1 (Aula), 71-665 Szczecin",634,305,17,529
+"Szkoła Podstawowa Nr 350, ul. Karola Irzykowskiego 1A, 01-317 Warszawa",1784,808,1619,1337
+"Szkoła Podstawowa Nr 355, ul. Ceramiczna 11, 03-126 Warszawa",1329,400,1174,949
+"Szkoła Podstawowa Nr 356, ul. Głębocka 66, 03-287 Warszawa",2558,770,1410,1823
+"Szkoła Podstawowa Nr 360, ul. Dzieci Warszawy 42, 02-495 Warszawa",745,219,235,536
+"Szkoła Podstawowa Nr 362, ul. gen. Waleriana Czumy 8, 01-355 Warszawa",831,489,254,738
+"Szkoła Podstawowa Nr 377 im. mjr. Henryka Dobrzańskiego""Hubala"", ul. Trocka 4, 03-563 Warszawa",742,447,151,725
+"Szkoła Podstawowa Nr 38, Gdańsk ul. Leśna Góra 2, 80-281 Gdańsk 44",1412,633,185,972
+"Szkoła Podstawowa Nr 38, ul. płk. Francesco Nullo 23, 31-543 Kraków",1456,677,1012,1287
+"Szkoła Podstawowa Nr 383, ul. Warszawska 63, 02-495 Warszawa",1195,725,925,1279
+"Szkoła Podstawowa Nr 39, Gdańsk ul. Obywatelska 1, 80-259 Gdańsk 6",1559,472,826,966
+"Szkoła Podstawowa Nr 4 (sala gimnastyczna), ul. Świętojańska 11, 84-230 Rumia",769,320,126,609
+"Szkoła Podstawowa Nr 4, ul. Harcerska 9, 05-091 Ząbki",588,282,58,683
+"Szkoła Podstawowa Nr 4, ul. Żwirki i Wigury 49, 87-100 Toruń",1061,488,710,844
+"Szkoła Podstawowa Nr 40, ul. Pszczelna 13, 30-385 Kraków",2637,1449,2446,2918
+"Szkoła Podstawowa Nr 403, ul. Kacpra Karlińskiego 6, 01-262 Warszawa",704,149,401,428
+"Szkoła Podstawowa Nr 43, Gdańsk ul. Ludwika Beethovena 20, 80-171 Gdańsk 48",886,403,385,702
+"Szkoła Podstawowa Nr 45, Gdańsk ul. Matki Polki 3A, 80-251 Gdańsk 6",569,191,51,374
+"Szkoła Podstawowa Nr 46 im. Stefana Starzyńskiego, ul. Wałbrzyska 5, 02-739 Warszawa",824,356,316,583
+"Szkoła Podstawowa Nr 46, Gdańsk ul. Arkońska 17, 80-387 Gdańsk 53",655,281,143,488
+"Szkoła Podstawowa Nr 47, Gdańsk ul. Reformacka 18, 80-808 Gdańsk 20",969,417,469,732
+"Szkoła Podstawowa Nr 48, Gdańsk ul. Zbigniewa Burzyńskiego 10, 80-462 Gdańsk 22",1886,761,927,1230
+"Szkoła Podstawowa Nr 48, ul. Czorsztyńska 35, 71-201 Szczecin",3236,1020,3123,2137
+"Szkoła Podstawowa Nr 5 im. Ignacego Jana Paderewskiego, ul. Jana Długosza 53, 05-800 Pruszków",669,334,155,740
+"Szkoła Podstawowa Nr 5 im. Polskich Noblistów w Śremie, ul. Dezyderego Chłapowskiego 12A, 63-100 Śrem",695,399,41,680
+"Szkoła Podstawowa Nr 50, Gdańsk ul. Grobla IV 8, 80-837 Gdańsk 50",649,299,163,507
+"Szkoła Podstawowa Nr 53, ul. Skośna 8, 30-383 Kraków",2885,893,2200,2370
+"Szkoła Podstawowa Nr 55, ul. Orawska 1, 70-131 Szczecin",667,338,174,636
+"Szkoła Podstawowa Nr 56, ul. Aleksandra Fredry 65, 30-605 Kraków",774,618,544,1131
+"Szkoła Podstawowa Nr 58 im. Tadeusza Gajcego, ul. Mieszka I 7, 03-886 Warszawa",1162,469,594,1306
+"Szkoła Podstawowa Nr 58, Gdańsk ul. Skarpowa 3, 80-145 Gdańsk 48",1678,816,807,1286
+"Szkoła Podstawowa Nr 6 im. Braci Barskich w Śremie, ul. Ignacego Paderewskiego 4, 63-100 Śrem",664,390,90,792
+"Szkoła Podstawowa Nr 6 im. Henryka Sienkiewicza, ul. Lipowa 31, 05-800 Pruszków",816,425,367,782
+"Szkoła Podstawowa Nr 6 z Oddziałami Dwujęzycznymi, ul. Wawel 13, 41-200 Sosnowiec",730,312,134,587
+"Szkoła Podstawowa Nr 6, ul. Ambasadorska 1, 05-400 Otwock",588,503,6,849
+"Szkoła Podstawowa Nr 6, ul. Gnieźnieńska 3, 75-736 Koszalin",653,339,36,622
+"Szkoła Podstawowa Nr 60, Gdańsk ul. Chłopska 64, 80-350 Gdańsk 5",1201,442,1022,847
+"Szkoła Podstawowa Nr 65, Gdańsk ul. Śluza 6, 80-770 Gdańsk 50",673,321,218,674
+"Szkoła Podstawowa Nr 67, Gdańsk ul. Żabi Kruk 5, 80-822 Gdańsk 50",796,229,481,511
+"Szkoła Podstawowa Nr 68, ul. Zakole 1a, 70-454 Szczecin",1341,617,1080,1037
+"Szkoła Podstawowa Nr 69, Gdańsk ul. Zielony Trójkąt 1, 80-869 Gdańsk 50",596,320,128,580
+"Szkoła Podstawowa Nr 7 im. Adama Mickiewicza, ul. Robotnicza 5, 62-800 Kalisz",753,296,66,573
+"Szkoła Podstawowa Nr 7 im. Janusza Korczaka w Giżycku (blok A-stołówka szkolna), ul. Wodociągowa 8, 11-500 Giżycko",736,358,113,697
+"Szkoła Podstawowa Nr 72, al. Aleja Modrzewiowa 23, 30-224 Kraków",1455,446,213,779
+"Szkoła Podstawowa Nr 74, ul. Seledynowa 50, 70-781 Szczecin",1683,827,1592,1460
+"Szkoła Podstawowa Nr 77, Gdańsk ul. Orłowska 13, 80-347 Gdańsk 5",999,456,743,754
+"Szkoła Podstawowa Nr 8 im. Władysława Broniewskiego, ul. Obrońców Pokoju 44, 05-800 Pruszków",722,358,385,766
+"Szkoła Podstawowa Nr 8, ul. Rodziewiczówny 10, 84-230 Rumia",1147,473,898,1002
+"Szkoła Podstawowa Nr 8, ul. Spółdzielcza 9, 43-600 Jaworzno",632,354,24,717
+"Szkoła Podstawowa Nr 8, ul. Wincentego Janasa 11, 42-612 Tarnowskie Góry",1820,980,899,1778
+"Szkoła Podstawowa Nr 82, Gdańsk ul. Radarowa 26, 80-298 Gdańsk 16",987,325,559,701
+"Szkoła Podstawowa Nr 82, ul. Stanisława Konarskiego 20, 01-464 Warszawa",2130,731,443,1374
+"Szkoła Podstawowa Nr 83, Gdańsk ul. Stokłosy 1, 80-298 Gdańsk 16",854,454,400,838
+"Szkoła Podstawowa Nr 83, al. Tadeusza Boya-Żeleńskiego 32, 51-160 Wrocław",667,289,53,471
+"Szkoła Podstawowa Nr 84 im. Waleriana Łukasińskiego, ul. Radzymińska 227, 03-611 Warszawa",1880,1253,1170,2159
+"Szkoła Podstawowa Nr 85 im. Benito Juareza, ul. Ludwika Narbutta 14, 02-541 Warszawa",836,337,383,547
+"Szkoła Podstawowa Nr 85, Gdańsk ul. Stolema 59, 80-177 Gdańsk 16",2677,570,2035,1362
+"Szkoła Podstawowa Nr 86, Gdańsk ul. Wielkopolska 20, 80-180 Gdańsk 42",2148,582,2044,1889
+"Szkoła Podstawowa Nr 86, ul. Koryncka 33, 04-686 Warszawa",697,352,54,613
+"Szkoła Podstawowa Nr 9 im. 25 Dywizji Piechoty Ziemi Kaliskiej, ul. Żwirki i Wigury 13, 62-800 Kalisz",707,397,29,730
+"Szkoła Podstawowa Nr 9 im. Marii Skłodowskiej-Curie, ul. Mostowa 6, 05-800 Pruszków",680,526,101,922
+"Szkoła Podstawowa Nr 9 im. Mikołaja Kopernika, hol (parter), ul. Ludwika Zamenhofa 14, 10-280 Olsztyn",592,308,48,694
+"Szkoła Podstawowa Nr 9, ul. Księżnej Dąbrówki 10, 71-826 Szczecin",626,354,127,825
+"Szkoła Podstawowa Nr 9, ul. Panewnicka 172, 40-772 Katowice",784,311,237,519
+"Szkoła Podstawowa Nr 9, ul. Rzepakowa 7/9, 87-100 Toruń",1456,723,1181,1278
+"Szkoła Podstawowa Nr 92, ul. Przasnyska 18A, 01-756 Warszawa",789,436,460,686
+"Szkoła Podstawowa Nr 96, ul. Krakowska 2, 50-425 Wrocław",804,369,591,750
+"Szkoła Podstawowa Specjalna nr 111 im. Stefana Starzyńskiego, ul. Różana 22/24, 02-569 Warszawa",684,277,270,510
+"Szkoła Podstawowa i Liceum Ogólnokształcące „EUREKA”, os. Przyjaźni 136, 61-686 Poznań",1067,373,793,636
+"Szkoła Podstawowa im. Adama Mickiewicza, ul. Tysiąclecia 11, 84-360 Łeba",574,209,180,601
+"Szkoła Podstawowa im. Armii Krajowej, ul. Szkolna 2, 05-110 Jabłonna",2151,1251,1607,2362
+"Szkoła Podstawowa im. Astrid Lindgren w Dąbrowie, Dąbrowa ul. Szkolna 41, 62-070 Dopiewo",814,180,280,452
+"Szkoła Podstawowa im. Bolesława Krzywoustego w Kamieńcu Wrocławskim, ul. Kolejowa 8, 55-002 Kamieniec Wrocławski",924,412,437,786
+"Szkoła Podstawowa im. Henryka Sienkiewicza, ul. Polna 40, 05-082 Stare Babice",1794,787,1701,1425
+"Szkoła Podstawowa im. Ignacego Krasickiego w Straszynie, ul. Starogardzka 48, 83-010 Straszyn",1556,509,530,1078
+"Szkoła Podstawowa im. Jana Pawła II w Grzędzicach, ul. Gryfa 6, 73-110 Grzędzice",597,210,25,506
+"Szkoła Podstawowa im. Jana Pawła II, ul. Sportowa 27, 78-131 Dźwirzyno",546,322,371,839
+"Szkoła Podstawowa im. Janusza Korczaka w Krynicy Morskiej, ul. Gdańska 55a, 82-120 Krynica Morska",925,444,875,96
+"Szkoła Podstawowa im. Kawalerów Orderu Uśmiechu w Dąbrówce, Dąbrówka ul. Malinowa 41, 62-070 Dopiewo",1399,182,274,508
+"Szkoła Podstawowa im. Księdza Kardynała Stefana Wyszyńskiego Prymasa Tysiąclecia w Rąbieniu, Rąbień ul. Słowiańska 5, 95-070 Aleksandrów Łódzki",1637,536,646,1024
+"Szkoła Podstawowa im. Marii Konopnickiej (duża sala gimnastyczna), ul. Wojska Polskiego 8, 78-111 Ustronie Morskie",736,461,422,927
+"Szkoła Podstawowa im. Polskich Noblistów, Baranowo ul. Wypoczynkowa 93, 62-081 Przeźmierowo",983,228,451,463
+"Szkoła Podstawowa im. Ratowników Morskich, ul. Darłowska 6, 76-156 Dąbki",706,468,270,966
+"Szkoła Podstawowa im. Straży Granicznej w Sarbinowie, ul. Nadmorska 27A, 76-034 Sarbinowo",698,369,341,821
+"Szkoła Podstawowa im. UNICEF, Bielany Wrocławskie ul. Akacjowa 1, 55-040 Kobierzyce",1212,304,811,647
+"Szkoła Podstawowa im. ppor. Klemensa Wickiego, Pępowo ul. Gdańska 117, 83-330 Żukowo",737,319,367,850
+"Szkoła Podstawowa im. Św. Jana de La Salle, Gdańsk ul. Juliusza Słowackiego 101, 80-281 Gdańsk 44",737,235,66,413
+"Szkoła Podstawowa nr 1 im. Fryderyka Chopina w Skórzewie, Skórzewo ul. Poznańska 70, 60-185 Poznań",1926,577,1535,1373
+"Szkoła Podstawowa nr 1 im. Jana Pawła II, ul. Szkolna 5, 62-080 Tarnowo Podgórne",1330,384,1154,888
+"Szkoła Podstawowa nr 1 im. Mikołaja Kopernika w Zalasewie, ul. Planetarna 7, 62-020 Zalasewo",1132,259,1083,748
+"Szkoła Podstawowa nr 1 im. Pierwszego Marszałka Polski Józefa Piłsudskiego, ul. Idzikowskiego 2a, 05-070 Sulejówek",1158,791,881,552
+"Szkoła Podstawowa nr 1 w Ożarowie Mazowieckim/ sala gimnastyczna, ul. Szkolna 3, 05-850 Ożarów Mazowiecki",589,284,135,678
+"Szkoła Podstawowa nr 1 z Oddziałami Integracyjnymi im. Tadeusza Kościuszki w Świdnicy, ul. Galla Anonima 1, 58-100 Świdnica",1183,724,766,1166
+"Szkoła Podstawowa nr 1, ul. Józefa Poniatowskiego 16, 62-030 Luboń",1296,468,1057,820
+"Szkoła Podstawowa nr 1, wejście od ul. Janusza Kusocińskiego, ul. Warszawska 73, 05-092 Łomianki",762,294,161,582
+"Szkoła Podstawowa nr 1, wejście od ul. Szkolnej, ul. Warszawska 73, 05-092 Łomianki",649,437,22,718
+"Szkoła Podstawowa nr 10 im. Arkadego Fiedlera, ul. Piotra Ściegiennego 10, 60-128 Poznań",1161,289,922,636
+"Szkoła Podstawowa nr 101 im. Jana Kochanowskiego, ul. Wspólna 5/7, 91-464 Łódź",1301,556,950,908
+"Szkoła Podstawowa nr 109 im. Ludwiki Wawrzyńskiej, ul. Pryncypalna 74, 93-379 Łódź",1314,849,55,1297
+"Szkoła Podstawowa nr 11, ul. Nasypowa 16, 40-551 Katowice",1037,321,749,691
+"Szkoła Podstawowa nr 110 im. Partyzantów Ziemi Łódzkiej, ul. Zamknięta 3, 93-323 Łódź",909,485,373,797
+"Szkoła Podstawowa nr 118, bulw. Ikara 19, 54-130 Wrocław",3345,1331,1418,2496
+"Szkoła Podstawowa nr 118, ul. Myśliborska 25, 03-185 Warszawa",665,217,258,564
+"Szkoła Podstawowa nr 12, ul. Górnośląska 45, 00-458 Warszawa",697,289,138,517
+"Szkoła Podstawowa nr 12, ul. Kcyńska 49, 85-304 Bydgoszcz",1142,415,798,799
+"Szkoła Podstawowa nr 12, ul. Rumuńska 6AB, 64-100 Leszno",1153,422,694,782
+"Szkoła Podstawowa nr 12, ul. Stawna 6, 81-629 Gdynia",1949,719,1840,1218
+"Szkoła Podstawowa nr 12, ul. Zygmunta Janiszewskiego 14, 50-372 Wrocław",962,528,949,1011
+"Szkoła Podstawowa nr 122, ul. Jesionowa 38, 91-363 Łódź",1746,712,602,1195
+"Szkoła Podstawowa nr 128, ul. Kadetów 15, 03-987 Warszawa",1280,524,988,1000
+"Szkoła Podstawowa nr 13, ul. Halicka 8, 81-506 Gdynia",665,293,78,536
+"Szkoła Podstawowa nr 132, ul. Grabowska 1, 01-236 Warszawa",818,524,368,853
+"Szkoła Podstawowa nr 137 im. Aleksandra Kamińskiego, ul. Olimpijska 9, 94-043 Łódź",1244,556,896,920
+"Szkoła Podstawowa nr 137 im. prof. Aleksandra Kamińskiego, ul. Florecistów 3B, 94-042 Łódź",943,396,434,684
+"Szkoła Podstawowa nr 138 im. Leopolda Staffa, ul. Stanisława Dubois 7/9, 93-491 Łódź",665,314,12,587
+"Szkoła Podstawowa nr 139 im. Wojska Polskiego, ul. Giewont 28, 92-116 Łódź",951,498,619,924
+"Szkoła Podstawowa nr 139, ul. Syreny 5/7, 01-132 Warszawa",1055,513,889,990
+"Szkoła Podstawowa nr 140, ul. Wilgi 19, 04-831 Warszawa",775,345,113,538
+"Szkoła Podstawowa nr 141 im. gen. Mariusza Zaruskiego, ul. Zakładowa 35, 92-402 Łódź",1603,799,531,1433
+"Szkoła Podstawowa nr 142 im. Zawiszy Czarnego, ul. Łupkowa 6, 91-527 Łódź",978,507,449,843
+"Szkoła Podstawowa nr 149 im. Obrońców Westerplatte, ul. Tatrzańska 69A, 93-219 Łódź",750,428,198,689
+"Szkoła Podstawowa nr 154, ul. Leśnej Polanki 63/65, 03-142 Warszawa",1513,494,654,1183
+"Szkoła Podstawowa nr 16 budynek A, ul. Wilczy Dół 4, 02-798 Warszawa",1694,432,653,789
+"Szkoła Podstawowa nr 16, ul. Chabrowa 43, 81-079 Gdynia",1119,501,720,869
+"Szkoła Podstawowa nr 162 im. Jana Nowaka Jeziorańskiego, ul. Powszechna 15, 93-321 Łódź",1740,916,599,1551
+"Szkoła Podstawowa nr 163, ul. Osiecka 28/32, 04-173 Warszawa",1103,497,1055,988
+"Szkoła Podstawowa nr 164 im. Andrzeja Frycza Modrzewskiego, ul. Walerego Wróblewskiego 65, 94-035 Łódź",881,355,394,670
+"Szkoła Podstawowa nr 166 im. Akademii Pana Kleksa w Łodzi, ul. Szamotulska 1/7, 91-037 Łódź",835,381,326,682
+"Szkoła Podstawowa nr 17, ul. Grabowo 12, 81-265 Gdynia",614,216,92,427
+"Szkoła Podstawowa nr 17, ul. Jana Dekerta 1, 40-143 Katowice",1107,511,929,993
+"Szkoła Podstawowa nr 18 im. Zofii Nałkowskiej, os. Armii Krajowej 100, 61-381 Poznań",1216,505,971,875
+"Szkoła Podstawowa nr 182 im. Tadeusza Zawadzkiego ""Zośki"", ul. Łanowa 16, 91-103 Łódź",975,478,581,896
+"Szkoła Podstawowa nr 184 im. Honorowych Obywateli Miasta Łodzi, ul. Syrenki 19A, 91-496 Łódź",2024,961,1849,1457
+"Szkoła Podstawowa nr 185, ul. gen. Tadeusza Bora-Komorowskiego 31, 03-982 Warszawa",1292,519,963,912
+"Szkoła Podstawowa nr 190 im. Jarosława Iwaszkiewicza, ul. Jacka Malczewskiego 37/47, 93-154 Łódź",635,279,105,519
+"Szkoła Podstawowa nr 199 im. Juliana Tuwima, ul. Józefa Elsnera 8, 92-504 Łódź",1744,741,563,1209
+"Szkoła Podstawowa nr 2 im. Jana Pawła II, ul. Poziomkowa 11, 62-002 Suchy Las",928,212,299,418
+"Szkoła Podstawowa nr 2 im. Królowej Jadwigi w Jarocinie, ul. Aleja Niepodległości 8, 63-200 Jarocin",647,412,91,836
+"Szkoła Podstawowa nr 2 z Oddziałami Dwujęzycznymi im. Szarych Szeregów, os. Jagiellońskie 128, 61-223 Poznań",1066,463,857,809
+"Szkoła Podstawowa nr 2, ul. Aleksandra Zawadzkiego 12, 84-240 Reda",1349,501,1331,1184
+"Szkoła Podstawowa nr 2, ul. Partyzantów 31, 05-092 Łomianki",704,334,64,561
+"Szkoła Podstawowa nr 2, ul. Targowa 17, 87-100 Toruń",616,201,9,410
+"Szkoła Podstawowa nr 2, ul. Wolności 51, 42-500 Będzin",1565,688,1462,1287
+"Szkoła Podstawowa nr 2, ul. Żabikowska 40, 62-030 Luboń",1795,524,935,1139
+"Szkoła Podstawowa nr 2, wejście od Filii Biblioteki Publicznej, ul. Partyzantów 31, 05-092 Łomianki",839,408,250,650
+"Szkoła Podstawowa nr 20, ul. Starodworcowa 36, 81-575 Gdynia",1619,432,514,905
+"Szkoła Podstawowa nr 203, ul. ks. Ignacego Skorupki 8, 00-546 Warszawa",817,416,442,696
+"Szkoła Podstawowa nr 205 im. Św. Jadwigi Królowej Polski, ul. Dąbrówki 1, 92-413 Łódź",1574,719,363,1232
+"Szkoła Podstawowa nr 206 im. Łódzkich Włókniarek, ul. Łozowa 9, 91-496 Łódź",1801,741,677,1240
+"Szkoła Podstawowa nr 21, ul. Jana z Kolna 5, 81-351 Gdynia",1388,465,1385,888
+"Szkoła Podstawowa nr 210, ul. Karmelicka 13, 00-163 Warszawa",761,344,318,641
+"Szkoła Podstawowa nr 220, al. Aleja Jana Pawła II 26A, 00-133 Warszawa",822,314,424,465
+"Szkoła Podstawowa nr 222, ul. Esperanto 7A, 00-049 Warszawa",803,394,425,651
+"Szkoła Podstawowa nr 225, ul. Jana Brożka 15, 01-451 Warszawa",1080,571,818,1068
+"Szkoła Podstawowa nr 23, ul. Mikołaja Reja 1, 02-034 Warszawa",708,256,338,447
+"Szkoła Podstawowa nr 23, ul. Przystankowa 32, 52-231 Wrocław",2236,605,1684,1268
+"Szkoła Podstawowa nr 231, ul. Juranda ze Spychowa 10, 03-257 Warszawa",1177,404,948,855
+"Szkoła Podstawowa nr 25 im. Kornela Makuszyńskiego, ul. Jurajska 7, 25-640 Kielce",1652,747,1614,1498
+"Szkoła Podstawowa nr 25, ul. Grzybowska 35, 00-855 Warszawa",1223,556,193,959
+"Szkoła Podstawowa nr 255, ul. Kamionkowska 36/44, 03-805 Warszawa",525,250,173,490
+"Szkoła Podstawowa nr 257, ul. Podróżnicza 11, 03-111 Warszawa",583,234,51,468
+"Szkoła Podstawowa nr 267, ul. Braci Załuskich 1, 01-773 Warszawa",805,386,418,644
+"Szkoła Podstawowa nr 27 im. Stefana Czarnieckiego, os. Winiary 2, 60-665 Poznań",1134,407,1004,820
+"Szkoła Podstawowa nr 27, ul. Turystyczna 19, 87-100 Toruń",754,229,71,462
+"Szkoła Podstawowa nr 279, ul. Cyrklowa 1, 04-044 Warszawa",1314,547,1263,998
+"Szkoła Podstawowa nr 28 im. Kornela Makuszyńskiego, ul. Chojnicka 57, 60-480 Poznań",629,224,6,396
+"Szkoła Podstawowa nr 289, ul. Władysława Broniewskiego 99A, 01-876 Warszawa",1478,796,521,1376
+"Szkoła Podstawowa nr 29, ul. Fabryczna 19, 00-446 Warszawa",922,382,614,668
+"Szkoła Podstawowa nr 293, ul. Jana Kochanowskiego 8, 01-864 Warszawa",2118,1062,481,1784
+"Szkoła Podstawowa nr 3 im. Mikołaja Kopernika, ul. Mokra 28/34, 95-200 Pabianice",1877,1358,943,2241
+"Szkoła Podstawowa nr 3 im. mjr. Henryka Dobrzańskiego ""Hubala"", al. Harcerzy - Zatorowców 6, 91-144 Łódź",810,352,286,623
+"Szkoła Podstawowa nr 3, ul. Brzozowa 30, 84-240 Reda",1399,576,285,1323
+"Szkoła Podstawowa nr 3, ul. Legionów 210, 87-100 Toruń",1183,500,905,874
+"Szkoła Podstawowa nr 3, ul. Stanisława Hadyny 18, 82-200 Malbork",652,303,1,528
+"Szkoła Podstawowa nr 30 im. rtm. Witolda Pileckiego, ul. Rysownicza 1/3, 91-855 Łódź",668,388,29,655
+"Szkoła Podstawowa nr 30, ul. Kawęczyńska 2, 03-772 Warszawa",994,709,739,1145
+"Szkoła Podstawowa nr 300, ul. Gubinowska 28/30, 02-956 Warszawa",1396,365,935,605
+"Szkoła Podstawowa nr 31, ul. Kobiałka 49, 03-044 Warszawa",607,212,40,478
+"Szkoła Podstawowa nr 312, ul. Władysława Umińskiego 11, 03-982 Warszawa",1953,686,1893,1151
+"Szkoła Podstawowa nr 312, ul. Władysława Umińskiego 12, 03-984 Warszawa",2099,831,1229,1463
+"Szkoła Podstawowa nr 319, ul. Wokalna 1, 02-787 Warszawa",1136,379,867,692
+"Szkoła Podstawowa nr 32, ul. Dow Bera Meiselsa 1, 00-190 Warszawa",766,394,465,691
+"Szkoła Podstawowa nr 322, ul. Edwarda Dembowskiego 9, 02-784 Warszawa",1461,408,1202,797
+"Szkoła Podstawowa nr 33 im. Stefana Kopcińskiego, ul. Michała Lermontowa 7, 92-512 Łódź",1459,714,1191,1147
+"Szkoła Podstawowa nr 33 z Oddziałami Specjalnymi, ul. Stefana Starzyńskiego 41, 41-215 Sosnowiec",644,387,133,658
+"Szkoła Podstawowa nr 33, ul. Cypriana Godebskiego 8, 81-134 Gdynia",2545,768,974,1735
+"Szkoła Podstawowa nr 336, ul. Witolda Małcużyńskiego 4, 02-793 Warszawa",1441,485,1143,809
+"Szkoła Podstawowa nr 34 im. Wisławy Szymborskiej, ul. Mieczysławy Ćwiklińskiej 9, 92-508 Łódź",1408,634,1037,1066
+"Szkoła Podstawowa nr 34, ul. Leona Kruczkowskiego 12B, 00-380 Warszawa",730,313,298,482
+"Szkoła Podstawowa nr 34, ul. Lucjana Cylkowskiego 5, 81-465 Gdynia",1457,456,294,842
+"Szkoła Podstawowa nr 343, ul. Stefana Kopcińskiego 7, 02-777 Warszawa",895,575,892,1009
+"Szkoła Podstawowa nr 35, ul. Nakielska 273, 85-391 Bydgoszcz",1375,727,1074,1239
+"Szkoła Podstawowa nr 351, ul. Jana Olbrachta 48/56, 01-111 Warszawa",1624,745,851,1327
+"Szkoła Podstawowa nr 352, ul. Josepha Conrada 6, 01-922 Warszawa",1594,789,1478,1281
+"Szkoła Podstawowa nr 360, ul. Dzieci Warszawy 42, 02-495 Warszawa",1058,290,837,665
+"Szkoła Podstawowa nr 363, ul. Rozłogi 10, 01-310 Warszawa",757,219,386,528
+"Szkoła Podstawowa nr 367, ul. Przytulna 3, 03-083 Warszawa",763,192,68,311
+"Szkoła Podstawowa nr 369, ul. Stanisława Przybyszewskiego 45, 01-849 Warszawa",920,384,423,659
+"Szkoła Podstawowa nr 374, ul. Boremlowska 6/12, 04-309 Warszawa",579,241,40,469
+"Szkoła Podstawowa nr 384, ul. Kajakowa 10, 02-838 Warszawa",1545,573,280,1011
+"Szkoła Podstawowa nr 385, ul. Klimatyczna 1, 05-077 Warszawa",1250,487,872,973
+"Szkoła Podstawowa nr 39, ul. adm. J. Unruga 88, 81-181 Gdynia",1377,730,1146,1251
+"Szkoła Podstawowa nr 391, ul. Filarecka 2, 01-582 Warszawa",873,320,642,555
+"Szkoła Podstawowa nr 392, al. Aleja Wojska Polskiego 1A, 01-524 Warszawa",631,340,113,571
+"Szkoła Podstawowa nr 396, ul. Anny German 5A, 01-794 Warszawa",2906,465,1954,1100
+"Szkoła Podstawowa nr 397, ul. Afrykańska 11, 03-966 Warszawa",1325,422,289,788
+"Szkoła Podstawowa nr 4 im. Komisji Edukacji Narodowej, al. marsz. Józefa Piłsudskiego 101, 92-329 Łódź",673,224,189,536
+"Szkoła Podstawowa nr 4 im. Marii Skłodowskiej-Curie w Aleksandrowie Łódzkim, al. Wyzwolenia 3, 95-070 Aleksandrów Łódzki",1314,809,1136,1545
+"Szkoła Podstawowa nr 4, ul. Jana Kasprowicza 16, 83-000 Pruszcz Gdański",1290,474,1142,978
+"Szkoła Podstawowa nr 4, ul. Łąkowa 36, 84-240 Reda",1319,599,208,1203
+"Szkoła Podstawowa nr 400, ul. Oś Królewska 25, 02-972 Warszawa",1541,283,507,546
+"Szkoła Podstawowa nr 403, ul. Kacpra Karlińskiego 6, 01-262 Warszawa",775,199,513,484
+"Szkoła Podstawowa nr 405, ul. Na Uboczu 9, 02-791 Warszawa",1549,509,335,898
+"Szkoła Podstawowa nr 408, ul. Arkuszowa 202, 01-934 Warszawa",828,395,301,696
+"Szkoła Podstawowa nr 41 im. Króla Władysława Jagiełły, ul. Rajdowa 18, 94-003 Łódź",1285,461,844,838
+"Szkoła Podstawowa nr 41, ul. Drewniana 8, 00-345 Warszawa",768,263,303,450
+"Szkoła Podstawowa nr 42 im. Stanisława Staszica, ul. Przyszkole 42, 93-552 Łódź",646,308,34,557
+"Szkoła Podstawowa nr 42, ul. Wałbrzyska 50, 52-314 Wrocław",2122,644,1669,1371
+"Szkoła Podstawowa nr 44, ul. Wilanowska 31, 51-206 Wrocław",644,343,38,609
+"Szkoła Podstawowa nr 48 im. Stanisława Moniuszki, ul. Rydzowa 15, 91-211 Łódź",1443,690,1136,1108
+"Szkoła Podstawowa nr 48, ul. Stefanii Sempołowskiej 4, 00-574 Warszawa",618,261,140,461
+"Szkoła Podstawowa nr 5, ul. Hugona Kołłątaja 1, 62-030 Luboń",1215,372,962,842
+"Szkoła Podstawowa nr 5, ul. Rekowska 36, 84-240 Reda",668,324,115,752
+"Szkoła Podstawowa nr 5, ul. Łowiecka 50c, 64-100 Leszno",647,194,56,460
+"Szkoła Podstawowa nr 50, ul. Jagiellońska 7, 03-721 Warszawa",927,483,744,772
+"Szkoła Podstawowa nr 50, ul. Stefana Starzyńskiego 10, 42-224 Częstochowa",1809,1082,1720,1773
+"Szkoła Podstawowa nr 51 im. Bronisława Szwarca, os. Lecha 37, 61-294 Poznań",1352,531,227,914
+"Szkoła Podstawowa nr 55 im. Eugeniusza Lokajskiego, ul. Antoniego Mackiewicza 9, 91-349 Łódź",812,321,191,572
+"Szkoła Podstawowa nr 55 im. Jurija Gagarina, ul. Szpaków 1, 61-065 Poznań",1196,441,1012,830
+"Szkoła Podstawowa nr 58 im. Jerzego Kukuczki, ul. Ławica 3, 60-186 Poznań",2337,639,556,1114
+"Szkoła Podstawowa nr 59 im. gen. J. H. Dąbrowskiego, ul. Baranowska 1, 61-353 Poznań",681,296,20,538
+"Szkoła Podstawowa nr 6 im. Hipolita Cegielskiego z Oddziałami Integracyjnymi, os. Rusa 56, 61-245 Poznań",2160,658,477,1303
+"Szkoła Podstawowa nr 6, ul. Gorlicka 25, 51-314 Wrocław",1185,561,319,1175
+"Szkoła Podstawowa nr 60 im. Wojciecha Bogusławskiego, ul. Boranta 2, 61-608 Poznań",1011,363,853,1023
+"Szkoła Podstawowa nr 61 im. Komisji Edukacji Narodowej, ul. Szczepankowo 72a, 61-306 Poznań",2383,816,769,1516
+"Szkoła Podstawowa nr 61, ul. Skarbowców 8a, 53-025 Wrocław",1462,422,455,786
+"Szkoła Podstawowa nr 64 im. Marii Konopnickiej, os. Orła Białego 120, 61-251 Poznań",3279,1115,2954,2020
+"Szkoła Podstawowa nr 64, ul. Wojszycka 1, 53-006 Wrocław",1471,353,313,760
+"Szkoła Podstawowa nr 65 im. Juliusza Słowackiego, ul. Pojezierska 10, 91-322 Łódź",1305,507,960,951
+"Szkoła Podstawowa nr 65, ul. Mścisławska 1, 01-647 Warszawa",1728,545,570,888
+"Szkoła Podstawowa nr 66 im. Marii Skłodowskiej-Curie, os. Przyjaźni 127, 61-689 Poznań",920,323,619,606
+"Szkoła Podstawowa nr 66, ul. gen. Augusta Emila Fieldorfa ""Nila"" 3, 85-796 Bydgoszcz",1559,535,1385,1072
+"Szkoła Podstawowa nr 67 z Oddziałami Dwujęzycznymi i Sportowymi im. Jacka Kuronia, os. Stefana Batorego 101, 60-687 Poznań",2752,700,1825,1460
+"Szkoła Podstawowa nr 68, ul. Or-Ota 5, 01-507 Warszawa",829,377,362,594
+"Szkoła Podstawowa nr 7 im. Adama Mickiewicza w Pile, ul. aleja Wojska Polskiego 45, 64-920 Piła",657,335,23,632
+"Szkoła Podstawowa nr 71 im. Henryka Sienkiewicza, ul. Rojna 58C, 91-134 Łódź",1327,566,963,938
+"Szkoła Podstawowa nr 72 z Oddziałami Dwujęzycznymi i Sportowymi im. Mikołaja Kopernika, ul. Izaaka Newtona 2, 60-161 Poznań",654,220,56,399
+"Szkoła Podstawowa nr 72, ul. Ludwika Michała Paca 44, 04-386 Warszawa",1403,724,1030,1443
+"Szkoła Podstawowa nr 74 im. Mikołaja Kopernika, ul. Trybunalska 17/25, 60-325 Poznań",933,129,89,477
+"Szkoła Podstawowa nr 77, ul. Samogłoska 9, 01-980 Warszawa",1388,457,1239,908
+"Szkoła Podstawowa nr 78 im. prof. Wiktora Degi, ul. Żonkilowa 34, 60-175 Poznań",683,229,45,429
+"Szkoła Podstawowa nr 78, ul. Jedności Narodowej 195, 50-303 Wrocław",1575,648,1127,1272
+"Szkoła Podstawowa nr 79 im. Łódzkich Olimpijczyków, ul. Pomorska 138, 91-404 Łódź",583,295,212,562
+"Szkoła Podstawowa nr 8, ul. Kąpielowa 7, 65-383 Zielona Góra",1732,470,1504,869
+"Szkoła Podstawowa nr 8, ul. Orłowska 27 - 33, 81-522 Gdynia",837,203,178,375
+"Szkoła Podstawowa nr 80, ul. Aspekt 48, 01-904 Warszawa",895,521,318,828
+"Szkoła Podstawowa nr 80, ul. Polna 4, 52-120 Wrocław",1172,660,1137,1326
+"Szkoła Podstawowa nr 81 im. Bohaterskich Dzieci Łodzi, ul. Emilii Plater 28/32, 91-762 Łódź",1421,582,1347,1137
+"Szkoła Podstawowa nr 81, ul. Puszczyka 6, 02-785 Warszawa",1202,485,847,799
+"Szkoła Podstawowa nr 82, ul. Blacharska 13, 53-206 Wrocław",1835,439,918,813
+"Szkoła Podstawowa nr 83 im. Stanisława Jachowicza, ul. Podmiejska 21, 93-165 Łódź",1160,544,844,976
+"Szkoła Podstawowa nr 83, al. Tadeusza Boya-Żeleńskiego 32, 51-160 Wrocław",672,260,239,516
+"Szkoła Podstawowa nr 84 im. Generała Józefa Bema, ul. Wici 16, 91-213 Łódź",1347,648,1146,1082
+"Szkoła Podstawowa nr 89 im. Krzysztofa Kamila Baczyńskiego, ul. Sochaczewska 3, 60-645 Poznań",1107,448,1100,814
+"Szkoła Podstawowa nr 9 im. Adolfa Dygasińskiego, ul. Adolfa Dygasińskiego 6, 25-120 Kielce",644,338,4,632
+"Szkoła Podstawowa nr 9, ul. Fikusowa 8, 62-510 Konin",1213,715,722,1154
+"Szkoła Podstawowa nr 9, ul. Panewnicka 172, 40-772 Katowice",792,251,153,409
+"Szkoła Podstawowa nr 9, ul. Stanisława Szczepanowskiego 14, 64-100 Leszno",709,269,134,614
+"Szkoła Podstawowa nr 90 im. hr. Władysława Zamoyskiego, ul. Józefa Chociszewskiego 56, 60-261 Poznań",820,220,371,430
+"Szkoła Podstawowa nr 91 im. Leonida Teligi, ul. Marcina Kasprzaka 45, 91-078 Łódź",1107,559,831,1051
+"Szkoła Podstawowa nr 95, ul. Starogajowa 66 - 68, 54-047 Wrocław",2414,1069,1867,2089
+"Szkoła Podstawowa nr 96, ul. Sarabandy 16/22, 02-868 Warszawa",936,348,401,617
+"Szkoła Podstawowa nr 98, ul. Sycowska 22a, 51-319 Wrocław",878,618,595,1140
+"Szkoła Podstawowa w Jarosławcu, ul. Bałtycka 65B, 76-107 Jarosławiec",629,369,117,897
+"Szkoła Podstawowa w Józefosławiu, Józefosław ul. Kameralna 11, 05-500 Piaseczno",3098,816,2363,1759
+"Szkoła Podstawowa w Kamionkach, ul. Mieczewska 36, 62-023 Kamionki",1637,315,1620,792
+"Szkoła Podstawowa w Kiełczowie, ul. Szkolna 3, 55-093 Kiełczów",1509,482,523,1141
+"Szkoła Podstawowa w Libertowie, Libertów ul. Jana Pawła II 43, 30-444 Kraków 55",703,422,75,734
+"Szkoła Podstawowa w Paprocicach, Paprocice 1, 26-006 Nowa Słupia",14,51,13,91
+"Szkoła Podstawowa w Umiastowie, Umiastów ul. Umiastowska 74, 05-850 Ożarów Mazowiecki",563,353,10,726
+"Szkoła Podstawowa w Wilczycach, ul. Wrocławska 15, 51-361 Wilczyce",845,323,394,642
+"Szkoła Podstawowa w Wisłoku Wielkim, Wisłok Wielki 26A, 38-543 Komańcza",30,26,29,59
+"Szkoła Podstawowa w Złotokłosie, ul. Traugutta 10, 05-504 Złotokłos",796,406,263,748
+"Szkoła Podstawowa w Ładach, Dawidy Bankowe ul. Długa 49, 05-090 Raszyn",1040,504,843,1053
+"Szkoła Podstawowa z Oddziałami Integracyjnymi Nr 114 im. Jędrzeja Cierniaka, ul. Remiszewska 40, 03-550 Warszawa",1917,1108,152,1893
+"Szkoła Podstawowa z Oddziałami Integracyjnymi Nr 3, ul. Topolowa 22, 31-506 Kraków",485,220,1,441
+"Szkoła Podstawowa z Oddziałami Integracyjnymi nr 223, ul. Jana Kasprowicza 107, 01-823 Warszawa",761,422,357,694
+"Szkoła Podstawowa z Oddziałami Integracyjnymi nr 61, ul. Białobrzeska 27, 02-340 Warszawa",1058,536,914,963
+"Szkoła Podstawowa z Oddziałami Integracyjnymi, ul. Aleja Tysiąclecia 32, 72-330 Mrzeżyno",943,364,640,852
+"Szkoła Podstawowa, Bojano ul. Józefa Wybickiego 38, 84-207 Koleczkowo",1076,485,807,1102
+"Szkoła Podstawowa, Jadwisin ul. Szkolna 46, 05-140 Serock",631,376,11,773
+"Szkoła Podstawowa, Józefosław ul. Kameralna 11, 05-500 Piaseczno",655,175,44,418
+"Szkoła Podstawowa, Kalinówka 78, 21-040 Świdnik",641,481,139,71
+"Szkoła Podstawowa, Koczargi Stare ul. Akacjowa 12, 05-080 Izabelin",700,420,69,789
+"Szkoła Podstawowa, Siekierki Wielkie ul. Stanisława Karalusa 1, 62-025 Kostrzyn",683,286,212,697
+"Szkoła Podstawowa, ul. Ignacego Krasickiego 56, 05-500 Nowa Iwiczna",1348,385,89,814
+"Szkoła Podstawowa, ul. Kościelna 46/48, 62-081 Przeźmierowo",1909,683,1808,1224
+"Szkoła Podstawowa, ul. Księdza Kanonika Henryka Słojewskiego 1, 05-552 Łazy",1221,626,1007,1259
+"Szkoła Podstawowa, ul. Poznańska 78, 61-160 Czapury",840,295,559,781
+"Szkoła Podstawowa, ul. Pułtuska 68, 05-140 Serock",702,524,154,963
+"Szkoła Podstawowa, ul. Słowackiego 4, 84-104 Jastrzębia Góra",541,218,137,605
+"Szkoła Podstawowa, ul. Wierzbowa 2, 86-065 Łochowo",652,258,27,498
+"Szkoła nr 1 im. Jana Pawła II w Aleksandrowie Łódzkim, ul. Ludwika Waryńskiego 22/26, 95-070 Aleksandrów Łódzki",687,451,51,747
+"Szkoły Ekonomiczno-Handlowe, Gdańsk ul. Mariana Seredyńskiego 1A, 80-753 Gdańsk 50",928,340,619,688
+"Szkoły Katolickiego Stowarzyszenia Wychowawców im. bł. Natalii Tułasiewicz, ul. Mińska 32, 61-049 Poznań",606,239,6,467
+"Szpital Chorób Płuc w Siewierzu Sp. z o. o., ul. Zbigniewa Oleśnickiego 21, 42-470 Siewierz",12,9,5,7
+"Szpital Kliniczny im. Księżnej Anny Mazowieckiej, ul. Karowa 2, 00-315 Warszawa",20,12,19,17
+"Szpital Medicover, al. Aleja Rzeczypospolitej 5, 02-972 Warszawa",28,19,20,14
+"Szpital Miejski nr 4 w Gliwicach Sp. z o.o., ul. Radiowa 2, 44-121 Gliwice",20,14,15,15
+"Szpital Nr 2 Samodzielny Publiczny Zakład Opieki Zdrowotnej Zespół Opieki Zdrowotnej, ul. Lompy 2, 48-340 Głuchołazy",47,37,42,51
+"Szpital Ogólny w Wysokiem Mazowieckiem, ul. Szpitalna 5, 18-200 Wysokie Mazowieckie",3,8,2,8
+"Szpital Powiatowy SP ZOZ, ul. Marszałka Józefa Piłsudskiego 26/28/30, 23-100 Bychawa",7,14,6,18
+"Szpital Powiatowy w Chmielniku, ul. Kielecka 1-3, 26-020 Chmielnik",5,6,2,14
+"Szpital Powiatowy w Gryfinie Sp. z o.o., ul. Parkowa 5, 74-100 Gryfino",7,3,6,7
+"Szpital Powiatowy w Strzyżowie, ul. 700-Lecia Strzyżowa 1, 38-100 Strzyżów",9,19,4,23
+"Szpital Powiatowy w Sędziszowie Małopolskim, Oddział Chorób Wewnętrznych, ul. Wyspiańskiego 14, 39-120 Sędziszów Małopolski",8,10,5,25
+"Szpital Powiatowy w Wyrzysku Spółka z o. o., ul. 22 Stycznia 41, 89-300 Wyrzysk",14,14,11,15
+"Szpital Powiatowy, ul. Ludwika Waryńskiego 4, 43-190 Mikołów",18,8,17,20
+"Szpital Rejonowy, ul. Gamowska 3, 47-400 Racibórz",26,17,21,27
+"Szpital Specjalistyczny SANUS, ul. Wojska Polskiego 5, 37-450 Stalowa Wola",18,23,16,36
+"Szpital Specjalistyczny im. J. Dietla w Krakowie Małopolskie Centrum Reumatologii, Immunologii i Rehabilitacji, al. Aleja Marszałka Ferdinanda Focha 33, 30-119 Kraków",20,12,14,26
+"Szpital Wielospecjalistyczny im. dr. Ludwika Błażka, ul. Poznańska 97, 88-100 Inowrocław",29,14,26,27
+"Szpital Zespołu Opieki Zdrowotnej, ul. Ułańska 28, 99-400 Łowicz",9,11,7,14
+"Szpital, al. Aleja Kasztanowa 17, 34-220 Maków Podhalański",8,8,7,12
+"Szpital, ul. Morawa 31, 40-353 Katowice",11,7,9,15
+"Szpitale Tczewskie S. A., ul. 30-go Stycznia 57/58, 83-110 Tczew",22,7,20,13
+"Służewski Dom Kultury w Dzielnicy Mokotów m. st. Warszawy, ul. Jana Sebastiana Bacha 15, 02-743 Warszawa",656,266,70,457
+"Technikum Energetyczne im. Henryka Zygalskiego, ul. Jana Henryka Dąbrowskiego 163, 60-594 Poznań",602,191,204,390
+"Technikum Hotelarsko-Turystyczno-Gastronomiczne Nr 21, ul. Krasnołęcka 3, 00-734 Warszawa",573,307,37,495
+"Technikum nr 19 im. Marszałka Józefa Piłsudskiego, ul. 28 Czerwca 1956 r. 352/360, 61-441 Poznań",1268,509,1074,960
+"Terminal Turystyczny, ul. Kotwiczna 14, 76-150 Darłowo",723,378,236,703
+"Uniwersytet Warmińsko-Mazurski w Olsztynie, Wydział Teologii, ul. Kardynała Stanisława Hozjusza 15, 11-041 Olsztyn",687,182,42,381
+"Urząd Dzielnicy Ochota m. st. Warszawy, ul. Adolfa Pawińskiego 30, 02-106 Warszawa",679,206,102,382
+"Urząd Gminy, ul. Gminna 60, 05-506 Lesznowola",712,339,203,739
+"Urząd Miasta Ustka, ul. Ks. Kardynała Stefana Wyszyńskiego 3, 76-270 Ustka",755,386,199,720
+"Urząd Miejski w Aleksandrowie Łódzkim, ul. Jakuba Jasińskiego 20, 95-070 Aleksandrów Łódzki",680,442,136,851
+"Urząd Miejski w Siechnicach, ul. Jana Pawła II 12, 55-011 Siechnice",546,219,64,588
+"Urząd do Spraw Cudzoziemców, ul. Taborowa 33, 02-699 Warszawa",615,171,252,484
+"Uzdrowisko Świeradów-Czerniawa Sp. z o.o. Grupa PGU Szpital Centrum Rehabilitacji i Reumatologii ""Goplana"", ul. Marszałka Józefa Piłsudskiego 33, 59-850 Świeradów-Zdrój",7,9,5,8
+"V Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi, ul. Ofiar Oświęcimia 14, 71-537 Szczecin",625,276,29,482
+"V Liceum Ogólnokształcące, ul. Nowolipie 8, 00-150 Warszawa",570,348,49,601
+"VII Liceum Ogólnokształcące, ul. Panewnicka 13, 40-709 Katowice",1043,616,798,1212
+"VIII Liceum Ogólnokształcące im. Adama Asnyka, ul. Pomorska 105, 91-402 Łódź",509,240,23,430
+"Wawerskie Centrum Kultury Filia ""Aleksandrów"", ul. Samorządowa 10, 04-965 Warszawa",711,497,170,887
+"Wejherowski Zarząd Nieruchomości Komunalnych, ul. Obrońców Helu 1, 84-200 Wejherowo",713,393,82,759
+"Wielkopolskie Stowarzyszenie Sportowe, ul. Starołęcka 36, 61-361 Poznań",755,247,704,731
+"Wielospecjalistyczny Szpital-Samodzielny Publiczny Zespół Opieki Zdrowotnej, ul. Stanisława Konarskiego 5b, 59-900 Zgorzelec",26,18,25,18
+"Wojewódzka i Miejska Biblioteka Publiczna Biblioteka bez Barier, Gdańsk ul. Czerwony Dwór 21, 80-376 Gdańsk 53",652,233,36,425
+"Wojewódzka i Miejska Biblioteka Publiczna Biblioteka przy Rynku, Gdańsk ul. Czerwony Dwór 21, 80-376 Gdańsk 53",716,228,114,388
+"Wojewódzki Ośrodek Terapii Uzależnienia od Alkoholu i Współuzależnienia w Giżycku, ul. Warszawska 41a, 11-500 Giżycko",9,7,8,10
+"Wojewódzki Szpital Chorób Płuc w Wodzisławiu Śląskim, ul. Bracka 13, 44-300 Wodzisław Śląski",17,17,10,18
+"Wojewódzki Szpital Obserwacyjno-Zakaźny im. Tadeusza Browicza w Bydgoszczy, ul. Św. Floriana 12, 85-030 Bydgoszcz",32,8,25,24
+"Wojewódzki Szpital Specjalistyczny im. Stefana Kardynała Wyszyńskiego SP ZOZ, ul. Zbigniewa Herberta 21, 20-286 Lublin",43,43,40,58
+"Wojskowy Instytut Medyczny Państwowy Instytut Badawczy, ul. Zegrzyńska 8, 05-119 Legionowo",15,14,11,5
+"Wrocławski Klub Formaty, ul. Samborska 3 - 5, 54-615 Wrocław",688,226,227,535
+"XCIX Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Zbigniewa Herberta, ul. Fundamentowa 38/42, 04-036 Warszawa",761,453,306,707
+"XIII Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. płk. Leopolda Lisa Kuli, ul. Oszmiańska 23/25, 03-503 Warszawa",1128,688,1025,1239
+"XIII Liceum Ogólnokształcące, ul. Sądowa 4, 31-542 Kraków",1167,384,378,837
+"XIV Liceum Ogólnokształcące im. Kazimierza Wielkiego, os. Piastowskie 106, 61-164 Poznań",640,234,298,495
+"XL Liceum Ogólnokształcące, ul. Platynowa 1, 00-808 Warszawa",737,360,222,647
+"XLI Liceum Ogólnokształcące, rynek Rynek Kleparski 18, 31-150 Kraków",501,218,179,502
+"XLII Liceum Ogólnokształcące im. Ireny Sendlerowej, ul. Stawowa 28, 91-358 Łódź",1482,578,1147,971
+"XLII Liceum Ogólnokształcące im. Marii Konopnickiej, ul. Antoniego Józefa Madalińskiego 22, 02-513 Warszawa",1213,354,1178,620
+"XLIII Liceum Ogólnokształcące im. Juliana Tuwima, ul. Królewska 13/15, 93-319 Łódź",1287,594,841,974
+"XLIII Liceum Ogólnokształcące im. Kazimierza Wielkiego, al. Aleja Niepodległości 27, 02-653 Warszawa",896,589,588,1203
+"XLIII Liceum Ogólnokształcące, ul. Bolesława Limanowskiego 60 - 62, 30-534 Kraków",743,341,702,731
+"XLIV Liceum Ogólnokształcące im. Stefana Banacha, ul. Dolna 6, 00-774 Warszawa",635,222,129,422
+"XLVI Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi im. Stefana Czarnieckiego, ul. Żuromińska 4, 03-341 Warszawa",1192,473,937,897
+"XLVII Liceum Ogólnokształcące im. Stanisława Staszica, ul. Stanisława Czernika 1/3, 92-538 Łódź",1919,928,1908,1515
+"XV Liceum Ogólnokształcące im. prof. Wiktora Degi, os. Bolesława Chrobrego 107, 60-681 Poznań",2081,650,1380,1229
+"XV Liceum Ogólnokształcące z Oddziałami Dwujęzycznymi, Gdańsk ul. Pilotów 7, 80-460 Gdańsk 22",1169,496,936,805
+"XVIII Liceum Ogólnokształcące, ul. Na Błonie 15b, 30-147 Kraków",1227,562,1050,974
+"XXI Liceum Ogólnokształcące z Oddziałami Sportowymi, Gdańsk ul. Kołobrzeska 75, 80-396 Gdańsk 53",1301,543,1236,952
+"XXI Liceum Ogólnokształcące z Oddziałami Sportowymi, Gdańsk ul. Kołobrzeska 77, 80-396 Gdańsk 53",705,316,143,539
+"XXIII Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie, ul. Naddnieprzańska 2/4, 04-205 Warszawa",727,326,211,607
+"XXIV Liceum Ogólnokształcące im. Marii Skłodowskiej-Curie, ul. Marysińska 61/67, 91-850 Łódź",863,352,326,653
+"XXV Liceum Ogólnokształcące im. Generałowej Jadwigi Zamoyskiej, ul. Widna 1, 60-655 Poznań",592,194,118,420
+"XXVI Liceum Ogólnokształcące im. Krzysztofa Kamila Baczyńskiego, ul. Wileńska 22A, 94-029 Łódź",1341,503,984,990
+"XXVII Liceum Ogólnokształcące im. Tadeusza Czackiego, ul. Polna 5, 00-625 Warszawa",545,231,107,448
+"XXX Liceum Ogólnokształcące, ul. Wolność 1/3, 01-018 Warszawa",1183,611,1064,994
+"XXXIII Liceum Ogólnokształcące im. Armii Krajowej, ul. Janusza Kusocińskiego 116, 94-054 Łódź",1201,466,755,759
+"XXXIV Liceum Ogólnokształcące im. Krzysztofa Kieślowskiego, ul. Wapienna 17, 91-087 Łódź",657,312,102,555
+"XXXIX Liceum Ogólnokształcące, ul. Bogumiła Zuga 16, 01-806 Warszawa",800,426,442,723
+"XXXV Liceum Ogólnokształcące im. Bolesława Prusa, ul. Zwycięzców 7/9, 03-936 Warszawa",1133,389,894,615
+"XXXVIII Dwujęzyczne Liceum Ogólnokształcące im. Jana Nowaka Jeziorańskiego, ul. Michała Drzymały 4/6, 60-613 Poznań",1148,363,1047,760
+"ZGN, ul. Jagiellońska 61, 03-301 Warszawa",565,276,200,624
+"ZIAD Bielsko-Biała S. A., al. Aleja Armii Krajowej 220, 43-300 Bielsko-Biała",682,257,5,494
+"Zachodniopomorski Uniwersytet Technologiczny Wydział Technologii Chemii, ul. Aleja Piastów 42, 70-065 Szczecin",567,251,50,510
+"Zakład Gospodarki Mieszkaniowej, ul. Warzywna 6, 95-200 Pabianice",635,500,18,872
+"Zakład Gospodarowania Nieruchomościami w Dzielnicy Mokotów m. st. Warszawy, ul. Irysowa 19, 02-660 Warszawa",957,369,576,678
+"Zakład Gospodarowania Nieruchomościami w Dzielnicy Włochy, ul. Naukowa 4, 02-463 Warszawa",648,277,229,594
+"Zakład Gospodarowania Nieruchomościami w Dzielnicy Śródmieście m. st. Warszawy, ul. Szwoleżerów 5, 00-464 Warszawa",882,352,513,605
+"Zakład Leczniczy-Hospicjum Palium Uniwersyteckiego Szpitala Klinicznego w Poznaniu, os. Rusa 55, 61-245 Poznań",8,4,7,5
+"Zakład Opiekuńczo Leczniczy w Busku-Zdroju, ul. Solankowa 6, 28-100 Busko-Zdrój",8,5,4,10
+"Zakład Opiekuńczo Leczniczy, ul. Pokoju 1a, 68-300 Lubsko",5,0,4,3
+"Zakład Opiekuńczo-Leczniczy SP ZOZ, ul. Olchy 8, 04-837 Warszawa",12,26,11,34
+"Zakład Opiekuńczo-Leczniczy prowadzony przez Zgromadzenie Sióstr Felicjanek, ul. Hugona Kołłątaja 7, 31-502 Kraków",3,30,1,38
+"Zakład Pielęgnacyjno-Opiekuńczy w Bacikach Średnich, Baciki Średnie 68, 17-300 Siemiatycze",2,4,1,8
+"Zakład Pielęgnacyjno-Opiekuńczy w Przedborzu, ul. Częstochowska 25, 97-570 Przedbórz",4,5,3,5
+"Zakład Pielęgnacyjno-Opiekuńczy w Żołyni, ul. Górska 8, 37-110 Żołynia",2,11,1,12
+"Zamojski Szpital Niepubliczny Sp. z o. o. w Zamościu, ul. Peowiaków 1, 22-400 Zamość",15,24,13,42
+"Zespół Edukacyjny Nr 9 Szkoła Podstawowa Nr 11, ul. Spawaczy 3d, 65-119 Zielona Góra",1092,370,760,749
+"Zespół Edukacyjny nr 10, ul. Energetyków 7, 65-729 Zielona Góra",1046,352,690,805
+"Zespół Opieki Zdrowotnej we Włoszczowie-Szpital Powiatowy im. Jana Pawła II, ul. Żeromskiego 28, 29-100 Włoszczowa",15,28,11,45
+"Zespół Opieki Zdrowotnej-Szpital Powiatowy, ul. Szpitalna 1, 26-110 Skarżysko-Kamienna",21,23,20,46
+"Zespół Placówek Młodzieżowych ""Bursa"", ul. gen. Józefa Hallera 37, 86-300 Grudziądz",343,173,324,504
+"Zespół Poradni Psychologiczno-Pedagogicznych nr 1, ul. Zawiszy 13, 01-167 Warszawa",1721,544,1283,1198
+"Zespół Szkolno Przedszkolny nr 12 (Przedszkole nr 394), ul. Jerzego Zaruby 7, 02-796 Warszawa",907,243,452,459
+"Zespół Szkolno-Przedszkolny Nr 1, ul. Księdza Jana Twardowskiego 2, 73-110 Stargard",643,220,0,459
+"Zespół Szkolno-Przedszkolny Nr 1, ul. Myśliwska 64, 30-718 Kraków",2073,995,732,2501
+"Zespół Szkolno-Przedszkolny Nr 14, ul. Stawowa 179, 31-346 Kraków",1227,546,707,793
+"Zespół Szkolno-Przedszkolny Nr 2, Gdańsk ul. Piotra Czajkowskiego 1, 80-169 Gdańsk 48",1389,665,160,1072
+"Zespół Szkolno-Przedszkolny Nr 2, ul. Porzeczkowa 3, 31-234 Kraków",1238,469,565,1256
+"Zespół Szkolno-Przedszkolny Nr 3, ul. Stefana Żeromskiego 64, 42-603 Tarnowskie Góry",651,362,84,687
+"Zespół Szkolno-Przedszkolny Nr 4, ul. Urzędnicza 65, 30-074 Kraków",658,251,259,495
+"Zespół Szkolno-Przedszkolny Nr 6 w Łodzi, ul. Janosika 136, 92-108 Łódź",899,342,306,605
+"Zespół Szkolno-Przedszkolny Nr 6, Gdańsk ul. Lawendowe Wzgórze 5, 80-175 Gdańsk 16",3139,822,1608,2384
+"Zespół Szkolno-Przedszkolny Nr 8, Gdańsk ul. Marcina Dragana 2, 80-807 Gdańsk 20",2059,1030,154,1615
+"Zespół Szkolno-Przedszkolny Sala Sportowa, Lutynia ul. Polna 1B, 55-330 Miękinia",637,337,62,685
+"Zespół Szkolno-Przedszkolny nr 1 (stołówka), ul. Młodzieżowa 1, 05-101 Nowy Dwór Mazowiecki",779,474,213,881
+"Zespół Szkolno-Przedszkolny nr 1, os. Władysława Łokietka 104, 61-616 Poznań",1406,419,1230,784
+"Zespół Szkolno-Przedszkolny nr 1, ul. Młodzieżowa 3, 05-101 Nowy Dwór Mazowiecki",781,420,266,831
+"Zespół Szkolno-Przedszkolny nr 1, ul. gen. Tadeusza Bora-Komorowskiego 2, 85-790 Bydgoszcz",1322,580,1216,1174
+"Zespół Szkolno-Przedszkolny nr 11, os. Bolesława Chrobrego 105, 60-681 Poznań",1365,351,156,691
+"Zespół Szkolno-Przedszkolny nr 11, ul. Strachocińska 155 - 157, 51-518 Wrocław",1358,619,1126,1073
+"Zespół Szkolno-Przedszkolny nr 12, ul. Lubelska 95a, 54-101 Wrocław",617,235,114,431
+"Zespół Szkolno-Przedszkolny nr 12, ul. Suwalska 5, 54-104 Wrocław",2144,641,910,1471
+"Zespół Szkolno-Przedszkolny nr 13, ul. Hangarowa 14, 60-409 Poznań",1731,446,1681,840
+"Zespół Szkolno-Przedszkolny nr 14, ul. Częstochowska 42, 54-031 Wrocław",1590,743,1577,1382
+"Zespół Szkolno-Przedszkolny nr 14, ul. Leśnowolska 35, 60-452 Poznań",2294,817,505,1489
+"Zespół Szkolno-Przedszkolny nr 15, ul. Druskienicka 32, 60-476 Poznań",2927,766,1074,1700
+"Zespół Szkolno-Przedszkolny nr 15, ul. Stanisławowska 38 - 44, 54-611 Wrocław",2018,661,557,1420
+"Zespół Szkolno-Przedszkolny nr 15, ul. Stanisławowska 38-44, 54-611 Wrocław",601,237,18,467
+"Zespół Szkolno-Przedszkolny nr 16, ul. Wietrzna 50, 53-024 Wrocław",1609,435,1065,1037
+"Zespół Szkolno-Przedszkolny nr 19, os. Stare Żegrze 1, 61-249 Poznań",1322,462,70,827
+"Zespół Szkolno-Przedszkolny nr 2, ul. Jugosłowiańska 2, 92-720 Łódź",1361,607,169,1138
+"Zespół Szkolno-Przedszkolny nr 2, ul. Mariana Sobańskiego 86, 40-685 Katowice",1184,396,863,736
+"Zespół Szkolno-Przedszkolny nr 20, ul. Karpnicka 2, 54-061 Wrocław",1920,837,1749,1998
+"Zespół Szkolno-Przedszkolny nr 21, ul. gen. Zygmunta Waltera Jankego 160, 40-613 Katowice",1233,519,1048,1022
+"Zespół Szkolno-Przedszkolny nr 22, ul. Edwarda Dembowskiego 39, 51-670 Wrocław",1241,468,1142,896
+"Zespół Szkolno-Przedszkolny nr 24, ul. Stefanii Sempołowskiej 54, 51-661 Wrocław",1213,512,946,899
+"Zespół Szkolno-Przedszkolny nr 25, ul. Asfaltowa 6, 52-235 Wrocław",1597,373,863,1396
+"Zespół Szkolno-Przedszkolny nr 26, ul. Cynamonowa 40, 51-180 Wrocław",687,200,454,666
+"Zespół Szkolno-Przedszkolny nr 3, ul. Nagietkowa 73, 81-589 Gdynia",2310,598,386,1149
+"Zespół Szkolno-Przedszkolny nr 4 (Szkoła Podstawowa nr 40), ul. Sołtysowicka 34, 51-168 Wrocław",1124,488,257,1113
+"Zespół Szkolno-Przedszkolny nr 4, ul. Chwaszczyńska 26, 81-571 Gdynia",678,259,30,404
+"Zespół Szkolno-Przedszkolny nr 4, ul. Garbary 82, 61-758 Poznań",696,150,567,380
+"Zespół Szkolno-Przedszkolny nr 4, ul. Staroniwska 55, 35-101 Rzeszów",647,513,138,72
+"Zespół Szkolno-Przedszkolny nr 5, os. Kosmonautów 108, 61-642 Poznań",572,215,74,412
+"Zespół Szkolno-Przedszkolny nr 5, ul. Osobowicka 127, 51-004 Wrocław",671,317,149,597
+"Zespół Szkolno-Przedszkolny nr 6, os. Jana III Sobieskiego 105, 60-688 Poznań",1424,389,1170,721
+"Zespół Szkolno-Przedszkolny nr 6, ul. Konstantego Ildefonsa Gałczyńskiego 8, 52-214 Wrocław",2132,555,1335,1215
+"Zespół Szkolno-Przedszkolny nr 7, ul. Leszka 42, 61-062 Poznań",1345,551,99,1016
+"Zespół Szkolno-Przedszkolny nr 8, os. Bolesława Śmiałego 107, 60-682 Poznań",1269,402,47,723
+"Zespół Szkolno-Przedszkolny nr 9, Gdańsk ul. mjr. Mieczysława Słabego 6, 80-298 Gdańsk 16",854,294,375,510
+"Zespół Szkolno-Przedszkolny nr 9, ul. Graniczna 46, 40-018 Katowice",1265,505,1171,924
+"Zespół Szkolno-Przedszkolny nr 9, ul. Ludwika Solskiego 13, 52-401 Wrocław",1512,446,637,948
+"Zespół Szkolno-Przedszkolny nr 9, ul. Mariana Morelowskiego 43, 52-429 Wrocław",855,248,179,441
+"Zespół Szkolno-Przedszkolny nr 9, ul. Umultowska 114, 61-614 Poznań",1471,378,323,776
+"Zespół Szkolno-Przedszkolny w Dobrzykowicach, Dobrzykowice ul. Sukcesu 2, 55-002 Kamieniec Wrocławski",969,295,705,710
+"Zespół Szkolno-Przedszkolny w Mirkowie, ul. Juliusza Słowackiego 17, 55-095 Mirków",775,303,229,669
+"Zespół Szkolno-Przedszkolny w Modlnicy, ul. Sportowa 2, 32-085 Modlnica",614,328,101,740
+"Zespół Szkolno-Przedszkolny w Smolcu, Smolec ul. Kościelna 2, 55-080 Kąty Wrocławskie",1342,256,337,849
+"Zespół Szkolno-Przedszkolny, Wola Kiełpińska 1, 05-140 Serock",1169,1165,1045,135
+"Zespół Szkolno-Przedszkolny, Wysoka ul. Chabrowa 99, 52-200 Wrocław",1229,262,1002,620
+"Zespół Szkolno-Przedszkolny, ul. Hubalczyków 7, 76-200 Słupsk",664,243,24,548
+"Zespół Szkolno-Przedszkolny, ul. Skalna 12, 43-190 Mikołów",678,292,89,606
+"Zespół Szkół Ekonomiczno-Turystyczno-Hotelarskich im. Władysława Grabskiego, al. 1 Maja 89, 90-755 Łódź",596,261,38,493
+"Zespół Szkół Elektroniczno-Informatycznych im. Jana Szczepanika, ul. Strykowska 10/18, 91-725 Łódź",995,441,610,801
+"Zespół Szkół Elektronicznych i Informatycznych, ul. Jagiellońska 13, 41-200 Sosnowiec",726,361,99,625
+"Zespół Szkół Elektrycznych nr 2 im. ks. Piotra Wawrzyniaka, ul. Świt 25, 60-375 Poznań",1061,387,821,739
+"Zespół Szkół Gastronomiczno-Spożywczych im. Wisławy Szymborskiej, sala nr 24 (parter), ul. Żołnierska 49, 10-560 Olsztyn",691,348,105,669
+"Zespół Szkół Hotelarsko-Gastronomicznych, ul. Morska 77, 81-222 Gdynia",681,226,112,452
+"Zespół Szkół Kreowania Wizerunku, Gdańsk ul. Prezydenta Lecha Kaczyńskiego 35, 80-365 Gdańsk 53",681,228,116,407
+"Zespół Szkół Mechanicznych Nr 2, al. Aleja gen. Jana Skrzyneckiego 12, 30-363 Kraków",618,172,533,498
+"Zespół Szkół Nr 1, ul. Zamkowa 6, 42-100 Kłobuck",646,383,21,746
+"Zespół Szkół Nr 2 (sala gimnastyczna - wejście od ul. Waryńskiego), ul. Piastowska 5, 78-100 Kołobrzeg",660,340,192,571
+"Zespół Szkół Nr 27, ul. Wincentego Rzymowskiego 38, 02-697 Warszawa",1749,695,1297,1493
+"Zespół Szkół Nr 42, ul. Dzieci Warszawy 42, 02-495 Warszawa",915,230,568,577
+"Zespół Szkół Nr 5 w Jarocinie, ul. Ludwika Waryńskiego 11, 63-200 Jarocin",1032,549,621,1135
+"Zespół Szkół Ogólnokształcących Nr 1, Gdańsk ul. płk. Wilka-Krzyżanowskiego 8, 80-271 Gdańsk 6",672,228,91,374
+"Zespół Szkół Ogólnokształcących Nr 3, sala nr 12 (parter), ul. Melchiora Wańkowicza 1, 10-684 Olsztyn",719,301,145,628
+"Zespół Szkół Ogólnokształcących Nr 4, ul. Eugeniusza Romera 2, 71-246 Szczecin",803,227,188,468
+"Zespół Szkół Ogólnokształcących Nr 7, Gdańsk ul. Tytusa Chałubińskiego 13, 80-807 Gdańsk 20",2246,998,1424,1617
+"Zespół Szkół Ogólnokształcących Nr 7, ul. Złoty Róg 30, 30-095 Kraków",1046,448,1024,858
+"Zespół Szkół Ogólnokształcących Nr 8, Gdańsk ul. Janusza Meissnera 9, 80-462 Gdańsk 22",1380,513,1136,870
+"Zespół Szkół Ogólnokształcących i Technicznych im. Jana Pawła II w Siewierzu, ul. Tadeusza Kościuszki 15, 42-470 Siewierz",597,409,13,789
+"Zespół Szkół Ogólnokształcących nr 4 im. ks. prof. Józefa Tischnera, os. Czecha 59, 61-288 Poznań",1329,508,996,864
+"Zespół Szkół Ogólnokształcących, ul. Marii Zaborowskiej 2, 76-200 Słupsk",758,348,150,653
+"Zespół Szkół Ogólnokształcących, ul. Stoczniowców 6, 84-230 Rumia",712,283,166,584
+"Zespół Szkół Poligraficznych, ul. Stawki 14, 00-178 Warszawa",657,181,106,317
+"Zespół Szkół Rzemiosła im. Jana Kilińskiego, ul. Żubardzka 26, 91-032 Łódź",859,356,325,661
+"Zespół Szkół Specjalnych Nr 1, ul. Policka 3, 71-857 Szczecin",706,274,94,522
+"Zespół Szkół Specjalnych nr 2, ul. Karolewska 30/34, 90-561 Łódź",947,300,469,591
+"Zespół Szkół Specjalnych nr 85, ul. Elektoralna 12/14, 00-139 Warszawa",794,342,358,591
+"Zespół Szkół Specjalnych, ul. Dolnej Wsi 74, 44-100 Gliwice",628,245,55,469
+"Zespół Szkół Społecznych nr 1 im. Z. Herberta, ul. Jedności Narodowej 58A, 78-100 Kołobrzeg",565,305,13,635
+"Zespół Szkół Spożywczo-Gastronomicznych, ul. Komorska 17/23, 04-161 Warszawa",1244,667,42,1056
+"Zespół Szkół Technicznych, ul. Adama Matuszczaka 7, 35-083 Rzeszów",554,462,215,261
+"Zespół Szkół Zawodowych Specjalnych nr 6, ul. Rolna 22, 40-555 Katowice",665,265,7,462
+"Zespół Szkół Zawodowych nr 2 im. Janusza Korczaka, ul. Żniwna 1, 61-663 Poznań",694,189,149,416
+"Zespół Szkół im. M. Konarskiego, ul. Okopowa 55A, 01-043 Warszawa",800,328,601,703
+"Zespół Szkół nr 1, ul. Morska 1, 84-120 Władysławowo",632,282,186,681
+"Zespół Szkół nr 129, ul. Koncertowa 4, 02-787 Warszawa",779,243,214,395
+"Zespół Szkół nr 129, ul. Koncertowa 8, 02-787 Warszawa",696,231,58,376
+"Zespół Szkół nr 16, ul. Koronowska 74, 85-405 Bydgoszcz",1899,920,1085,1705
+"Zespół Szkół nr 2, ul. Borowska 105, 50-551 Wrocław",1132,508,1069,955
+"Zespół Szkół nr 35, ul. Stefana Żeromskiego 22/28, 01-831 Warszawa",797,431,315,680
+"Zespół Szkół nr 4, ul. Szczęśliwicka 46, 02-353 Warszawa",574,165,97,363
+"Zespół Szkół nr 49, ul. Lwa Tołstoja 2, 01-910 Warszawa",2150,849,982,1645
+"Zespół Szkół nr 5 (wejście boczne-stołówka), ul. gen. Tadeusza Kutrzeby 2a, 09-410 Płock",723,309,102,590
+"Zespół Szkół nr 5 Mistrzostwa Sportowego, ul. gen. Augusta Emila Fieldorfa ""Nila"" 13, 85-796 Bydgoszcz",1411,664,1202,1158
+"Zespół Szkół nr 5, ul. Szczawnicka 1, 04-089 Warszawa",981,439,650,792
+"Zespół Szkół nr 73, ul. Wenantego Burdzińskiego 4, 03-480 Warszawa",568,362,2,651
+"Zespół Szkół nr 90, ul. Augustyna Kordeckiego 54, 04-330 Warszawa",600,296,19,524
+"Zespół Szkół z Oddziałami Sportowymi nr 1 im. Jana Kochanowskiego, os. Pod Lipami 106, 61-638 Poznań",1144,359,1018,674
+"Zespół Szkół Łączności im. Mikołaja Kopernika, ul. Przełajowa 4, 61-622 Poznań",2018,439,722,1100
+"Zespół Szkół Łączności, ul. Monte Cassino 31, 30-337 Kraków",1356,450,481,954
+"Zespół Wczesnej Edukacji nr 1, ul. Wiczlińska 33, 81-578 Gdynia",1923,550,1814,1052
+"Zespół Zakładów Opieki Zdrowotnej im. Jerzego Pióro w Dobrym Mieście Centrum Świadczeń Zdrowotnych w Barczewie, ul. Niepodległości 9, 11-010 Barczewo",1,1,0,1
+"Zespół Zakładów Opieki Zdrowotnej im. Jerzego Pióro w Dobrym Mieście, ul. Grunwaldzka 10B, 11-040 Dobre Miasto",4,9,3,9
+"Zespół Zakładów Opieki Zdrowotnej w Ostrowie Wielkopolskim - Oddziały przy ul. 3. Maja, ul. 3 Maja 35, 63-400 Ostrów Wielkopolski",3,2,2,5
+"Śląski Dom Seniora, ul. Juliusza Słowackiego 22, 41-710 Ruda Śląska",21,6,17,11
+"Świetlica GOK, ul. Marszałka Józefa Piłsudskiego 55, 05-805 Kanie",684,359,62,635
+"Świetlica Ochotniczej Straży Pożarnej Łódź-Mikołajew, ul. Plonowa 18, 91-156 Łódź",943,380,466,723
+"Świetlica Osiedlowa Rady Osiedla Polanowice-Poświętne-Ligota, ul. Henryka Michała Kamieńskiego 256, 51-180 Wrocław",622,198,109,450
+"Świetlica Wiejska w Grzybowie, ul. Szkolna 1, 78-132 Grzybowo",668,281,358,663
+"Świetlica Wiejska w Rowach, ul. Kościelna 2a, 76-212 Rowy",436,238,91,623
+"Świetlica Wiejska w Wilkszynie, Wilkszyn ul. Sportowa 2, 55-330 Miękinia",714,306,202,679
+"Świetlica Wiejska w Łagiewnikach Nowych, Łagiewniki Nowe ul. Smardzewska 59, 95-002 Smardzew",764,356,202,610
+"Świetlica Wiejska, Klonowo 35, 13-230 Lidzbark",53,36,52,79
+"Świetlica Wiejska, Lusowo ul. Ogrodowa 13, 62-080 Tarnowo Podgórne",716,176,141,387
+"Świetlica Wiejska, Murowaniec ul. Agatowa 2, 86-005 Białe Błota",665,279,115,589
+"Świetlica Wiejska, Zielonka ul. Jaworowa 2, 86-005 Białe Błota",738,204,241,484
+"Świetlica na Osiedlu Wincentego Witosa, ul. ks. Władysława Młyńskiego 4, 83-110 Tczew",684,338,37,682
+"Świetlica osiedlowa, pl. Plac Grzybowy 16, 62-002 Złotniki",822,151,139,259
+"Świetlica osiedlowa, ul. Żukowa 14, 62-002 Złotniki",814,257,297,473
+"Świetlica szpitalna, ul. Szpitalna 9, 24-300 Opole Lubelskie",12,9,0,2
+"Świetlica w Karwianach, Karwiany ul. Majowa 3a, 52-200 Wrocław",628,167,17,379
+"Świetlica w Szczytnikach, ul. Wspólna 18, 62-023 Szczytniki",865,213,535,548
+"Świetlica wiejska Nadolice Wielkie, Nadolice Wielkie ul. Wrocławska 56, 55-003 Czernica",668,267,123,610
+"Świetlica wiejska w Biskupicach, ul. Ogrodowa 17, 62-007 Biskupice",737,282,177,628
+"Świetlica wiejska w Chrząstawie Wielkiej, Chrząstawa Wielka ul. Wrocławska 36, 55-003 Czernica",733,461,381,939
+"Świetlica wiejska w Gowarzewie, Gowarzewo ul. Swarzędzka 14, 63-004 Tulce",912,276,620,697
+"Świetlica wiejska, Nowa Wieś ul. Główna 52B, 05-806 Komorów",691,393,37,645
+"Świetlica środowiskowa, ul. Zatoczna 34, 72-415 Międzywodzie",532,264,7,584
+"Świetlica, ul. Racula-Głogowska 64, 66-004 Zielona Góra",854,270,320,562
+"Żłobek nr 45, ul. Mieczysława Pawlikowskiego 2, 03-983 Warszawa",733,321,156,564
+"Żłobek nr 74, ul. Wojciecha Bogusławskiego 5, 01-923 Warszawa",834,308,320,609

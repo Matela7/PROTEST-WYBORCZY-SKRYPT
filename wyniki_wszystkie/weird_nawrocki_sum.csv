@@ -1,0 +1,261 @@
+address,Trzaskowski_first,Nawrocki_first,Trzaskowski_second,Nawrocki_second
+"""Nowy Szpital"" w Świebodzinie Sp. z o. o., ul. Młyńska 6, 66-200 Świebodzin",4,6,7,5
+"21 Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny SP ZOZ w Busku-Zdroju, ul. Feliksa Rzewuskiego 8, 28-100 Busko-Zdrój",172,129,148,111
+"6 Szpital Wojskowy z Przychodnią SPZOZ, ul. Szpitalna 2, 08-530 Dęblin",3,8,2,7
+"Apartamenty Szczęśliwy Senior, ul. Częstochowska 71-75, 62-800 Kalisz",18,4,37,3
+"Budynek KOS Łęg Tarnowski, ul. Witosa 187A, 33-131 Łęg Tarnowski",203,624,369,51
+"Budynek Wiejskiego Ośrodka Kultury, os. Osiedle Kozielce 297, 34-451 Tylmanowa",149,870,280,375
+"Centrum Kultury, Sportu i Turystyki w Pruchniku, ul. Księdza Bronisława Markiewicza 20, 37-560 Pruchnik",139,594,244,35
+"Centrum Medyczne Boruta Sp. z o. o. w Zgierzu, ul. Andrzeja Struga 2-4, 95-100 Zgierz",4,6,6,1
+"DPS Filia w Grodzisku Mazowieckim, ul. 3 Maja 63, 05-825 Grodzisk Mazowiecki",1,8,4,6
+"Dom Kultury w Ołpinach, Ołpiny 86, 38-247 Ołpiny",87,615,171,25
+"Dom Kultury w Szówsku, Szówsko ul. Sportowa 5, 37-522 Wiązownica",136,675,263,115
+"Dom Kultury w Wysokiej, Wysoka 81, 37-100 Łańcut",171,743,339,276
+"Dom Kultury, Siołkowa 35, 33-330 Grybów",78,656,135,92
+"Dom Ludowy w Przegini, Przeginia 116a, 32-049 Przeginia",110,646,278,85
+"Dom Ludowy w Wysokiej Głogowskiej, Wysoka Głogowska 302, 36-061 Wysoka Głogowska",142,666,289,140
+"Dom Ludowy, ul. Krakowska 98, 32-851 Jadowniki",275,683,461,176
+"Dom Opieki ""Spokojna Przystań II"" w Baborowie, ul. Powstańców 3, 48-120 Baborów",10,6,17,4
+"Dom Opieki HONORATA. Zakład Opiekuńczo-Leczniczy, ul. Główna 31, 41-500 Chorzów",28,7,31,6
+"Dom Opieki Nasz Dom, Jabłkowo 19, 62-285 Popowo Kościelne",0,10,2,9
+"Dom Pomocy Pracownika Służby Zdrowia, ul. Elekcyjna 37, 01-119 Warszawa",11,25,16,22
+"Dom Pomocy Społecznej ""Biały Potok"" w Trzemeśni, Trzemeśnia 377, 32-425 Trzemeśnia",5,30,14,21
+"Dom Pomocy Społecznej ""Chemik"", ul. Władysława Korotyńskiego 10, 02-121 Warszawa",19,34,32,30
+"Dom Pomocy Społecznej ""Dom z Sercem"" w Komorowie, ul. Kościelna 2, 07-310 Komorowo",3,8,6,7
+"Dom Pomocy Społecznej ""Misericordia"" w Ełku, ul. ks. prał. Mariana Szczęsnego 5, 19-300 Ełk",16,21,21,20
+"Dom Pomocy Społecznej ""Miłosierny Samarytanin"", ul. ks. Marcina Lutra 2-8, 54-239 Wrocław",5,10,11,8
+"Dom Pomocy Społecznej ""Ostoja"", ul. Pawia 39, 59-300 Lubin",3,28,7,24
+"Dom Pomocy Społecznej ""RELAX"", ul. Wójtowska 62, 27-230 Brody",3,24,8,19
+"Dom Pomocy Społecznej Caritas Diecezji Kaliskiej im. Św. Józefa, ul. Klonowa 2, 98-270 Złoczew",2,7,5,6
+"Dom Pomocy Społecznej Zakonu Bonifratrów w Zebrzydowicach, Zebrzydowice 1, 34-130 Kalwaria Zebrzydowska",2,22,11,17
+"Dom Pomocy Społecznej dla Kombatantów, ul. Powstańców Śląskich 4, 35-610 Rzeszów",568,514,41,121
+"Dom Pomocy Społecznej dla Osób Przewlekle Psychicznie Chorych w Krowicy Lasowej, Krowica Lasowa 86, 37-625 Krowica Sama",1,13,5,12
+"Dom Pomocy Społecznej im. Bpa Stanisława Stefanka, Kolsk 30A, 73-240 Bierzwnik",6,7,12,6
+"Dom Pomocy Społecznej prowadzony przez Zakon Kamilianów, ul. Cisowa 6, 41-800 Zabrze",9,23,14,20
+"Dom Pomocy Społecznej prowadzony przez Zgromadzenie Sióstr Franciszkanek Maryi Nieustającej Pomocy, ul. Grunwaldzka 104, 50-357 Wrocław",2,28,7,26
+"Dom Pomocy Społecznej w Cetuniu, Cetuń 6, 76-010 Polanów",3,20,10,12
+"Dom Pomocy Społecznej w Dolicach, ul. Wiśniowa 12, 73-115 Dolice",7,12,15,11
+"Dom Pomocy Społecznej w Dębcach, Dębce 11, 74-100 Gryfino",6,11,16,9
+"Dom Pomocy Społecznej w Kamieniu Wielkim, Kamień Wielki ul. Stawna 40, 66-460 Witnica",8,7,11,5
+"Dom Pomocy Społecznej w Kobylej Górze, ul. Tomasza Sikorskiego 1, 63-507 Kobyla Góra",3,6,5,3
+"Dom Pomocy Społecznej w Poznaniu, ul. Stanisława Konarskiego 11/13, 61-114 Poznań",14,13,23,12
+"Dom Pomocy Społecznej w Sosnówce, ul. Liczyrzepy 87, 58-564 Sosnówka",4,15,7,13
+"Dom Pomocy Społecznej w Ślesinie, ul. Kościelna 46, 62-561 Ślesin",0,3,2,2
+"Dom Pomocy Społecznej, Klęczany 169, 33-394 Klęczany",1,34,2,33
+"Dom Pomocy Społecznej, Wapienne 70, 38-307 Wapienne",2,9,5,6
+"Dom Pomocy Społecznej, ul. Dobrzyńska 102, 87-800 Włocławek",5,9,14,7
+"Dom Pomocy Społecznej, ul. Grabowiecka 7, 27-400 Ostrowiec Świętokrzyski",37,47,78,42
+"Dom Pomocy Społecznej, ul. Jana Kilińskiego 10/12, 05-075 Warszawa",7,14,16,10
+"Dom Pomocy Społecznej, ul. Kościuszki 71, 72-300 Gryfice",6,18,18,13
+"Dom Pomocy Społecznej, ul. Rynkowa 27, 74-503 Moryń",0,36,3,32
+"Dom Pomocy Społecznej, ul. Szczekocińska 19, 42-235 Lelów",6,25,18,24
+"Dom Seniora ""Zielony Piątek"", Piątek Wielki 58, 62-820 Stawiszyn",2,1,4,0
+"Dom Strażaka w Wielogórze, Wielogóra ul. Kwiatowa 1, 26-660 Jedlińsk",237,606,418,76
+"Dom Strażaka, ul. Rostków 7, 44-336 Jastrzębie-Zdrój",344,540,569,3
+"Dom Św. Jana Bożego, ul. Piastowska 6, 48-200 Prudnik",1,3,5,1
+"Firma Dariusz Głowacki ""DAGO"", ul. Grzybowa 52B, 21-500 Biała Podlaska",354,551,607,37
+"Gminna Biblioteka Publiczna-Filia Turka, ul. Konwaliowa 3, 20-258 Turka",540,424,1,53
+"Gminne Centrum Kultury i Promocji w Godziszowie, Godziszów Trzeci 124A, 23-302 Godziszów",22,756,60,191
+"Gminne Centrum Kultury, Czytelnictwa i Sportu w Rzezawie, budynek biblioteki w Rzezawie, ul. Kościelna 6, 32-765 Rzezawa",219,702,431,210
+"Gminny Ośrodek Kultury i Czytelnictwa w Białobrzegach, Białobrzegi 1, 37-114 Białobrzegi",119,578,270,155
+"Gminny Ośrodek Kultury i Sportu w Wiśniowej, Wiśniowa 320, 32-412 Wiśniowa",135,612,251,51
+"Gminny Ośrodek Kultury w Majdanie Królewskim, ul. Rzeszowska 8, 36-110 Majdan Królewski",148,664,283,38
+"Gminny Ośrodek Kultury w Łoniowie, Łoniów 56, 27-670 Łoniów",214,641,371,84
+"Gminny Ośrodek Kultury, Promocji, Informacji Turystycznej i Biblioteka Publiczna w Istebnej, Istebna 68, 43-470 Istebna",202,683,369,190
+"Gminny Ośrodek Pomocy Społecznej w Jasienicy Rosielnej, Jasienica Rosielna 240, 36-220 Jasienica Rosielna",109,652,183,28
+"Grupa Zdrowie Sp. z o.o. Hospicjum Stacjonarne w Głownie, ul. Wojska Polskiego 32/34, 95-015 Głowno",1,2,0,1
+"Hala Sportowa w Borzęcinie Górnym, Borzęcin 563, 32-825 Borzęcin",135,565,206,90
+"Hol główny Centrum, ul. Poddębina 9a, 95-080 Tuszyn",23,7,31,5
+"Krapkowickie Centrum Zdrowia Sp. z o. o., os. Osiedle XXX Lecia 21, 47-303 Krapkowice",7,2,15,1
+"Liceum Ogólnokształcące im. Bohaterów Porytowego Wzgórza, ul. Jana Pawła II 1, 23-300 Janów Lubelski",228,665,372,57
+"Lokal Szkoły Podstawowej w Krasieninie-Kolonii, Krasienin-Kolonia 39, 21-025 Niemce",260,619,465,172
+"Lokal Szkoły Podstawowej w Niemcach, ul. Szkolna 23, 21-025 Niemce",319,515,568,2
+"Miejsko-Gminny Ośrodek Kultury, ul. Haliny Oleksiak 2, 62-740 Tuliszków",195,639,370,78
+"Międzyleski Szpital Specjalistyczny w Warszawie, ul. Bursztynowa 2, 04-749 Warszawa",41,54,64,52
+"NZOZ ""MOŻ-MED. "" Sp. j. Możdżan w Poddębicach, ul. Miła 27, 99-200 Poddębice",18,19,23,18
+"NZOZ SALUS Sp. z o. o. Zakład Pielęgnacyjno-Opiekuńczy, ul. Zagorzynek 34, 62-800 Kalisz",1,4,1,3
+"Niepubliczny Zakład Opieki Zdrowotnej ""Szpital Powiatowy"" w Słubicach, ul. Nadodrzańska 6, 69-100 Słubice",21,9,30,8
+"Niepubliczny Zakład Opieki Zdrowotnej Szpital Powiatowy w Dzierżoniowie Sp. z o. o., ul. Cicha 1, 58-200 Dzierżoniów",8,9,12,7
+"Niepubliczny Zakład Opiekuńczo-Leczniczy i Opieki Paliatywnej ""Santa Rita"" w Przemyślu, ul. Stefana Rogozińskiego 30, 37-700 Przemyśl",7,21,12,20
+"Nowy Szpital Sp. z o. o., ul. Wolności 27, 87-200 Wąbrzeźno",3,7,11,2
+"Nowy Szpital we Wschowie, ul. ks. Kostki 33, 67-400 Wschowa",8,12,8,6
+"Ochotnicza Straż Pożarna, Nienadówka 300, 36-052 Nienadówka",98,836,222,394
+"Oddział Zewnętrzny w Kikitach Zakładu Karnego w Barczewie, Kikity 21, 11-311 Kolno",22,3,38,2
+"Państwowa Szkoła Muzyczna I i II stopnia im. F. Chopina, ul. Nawojowska 213, 33-300 Nowy Sącz",326,664,499,75
+"Powiatowe Centrum Zdrowia w Kamiennej Górze Sp. z o. o., ul. Bohaterów Getta 10, 58-400 Kamienna Góra",6,7,10,2
+"Powiatowe Zakłady Opiekuńczo-Lecznicze w Grojcu, ul. Aleja Ogrodowa 1, 32-615 Grojec",2,7,7,6
+"Przedszkole w Nowym Wiśniczu, ul. Kościelna 2, 32-720 Nowy Wiśnicz",534,1296,948,205
+"Przedszkole w Trzebownisku, Trzebownisko 968, 36-001 Trzebownisko",318,766,626,470
+"Przyjazny Szpital w Połczynie-Zdroju, ul. Szpitalna 5, 78-320 Połczyn-Zdrój",12,9,7,6
+"Publiczna Szkoła Podstawowa Nr 4 z Oddziałami Integracyjnymi im. św. Kazimierza Jagiellończyka, ul. Wyścigowa 49, 26-600 Radom",792,1212,1357,178
+"Publiczna Szkoła Podstawowa Nr 4, ul. Kupientyńska 15, 08-300 Sokołów Podlaski",294,613,529,29
+"Publiczna Szkoła Podstawowa im. św. Jana Pawła II w Rajbrocie, Rajbrot 362, 32-725 Rajbrot",69,658,116,100
+"Publiczna Szkoła Podstawowa nr 2 im. Ignacego Jana Paderewskiego w Staszowie, ul. Niepodległości 4, 28-200 Staszów",143,224,360,209
+"Publiczna Szkoła Podstawowa w Makowcu, Makowiec ul. Kościelna 2, 26-640 Skaryszew",183,665,340,126
+"Publiczna Szkoła Podstawowa w Małęczynie, Małęczyn ul. Szkolna 64, 26-634 Gózd",182,608,332,110
+"Publiczna Szkoła Podstawowa w Pilźnie, ul. Adama Mickiewicza 1, 39-220 Pilzno",369,1254,648,1048
+"Publiczna Szkoła Podstawowa w Zwoleniu, ul. Ludowa 35, 26-700 Zwoleń",344,603,554,27
+"Publiczna Szkoła Podstawowa, Gnojnik 336, 32-864 Gnojnik",128,653,234,200
+"Publiczna Szkoła Podstawowa, Jasień ul. Zielna 1, 32-800 Brzesko",317,700,560,210
+"Publiczna Szkoła Podstawowa, Mokrzyska ul. Wiślana 47, 32-800 Brzesko",224,612,387,94
+"Regionalne Centrum Zdrowia Spółka z o. o., ul. Gen. Józefa Bema 5-6, 59-300 Lubin",14,37,24,31
+"Remiza OSP, Królówka 315, 32-722 Królówka",52,769,123,163
+"Remiza OSP, Podwilk 289A, 34-722 Podwilk",52,717,113,203
+"Remiza Ochotniczej Straży Pożarnej w Olszynach, Olszyny 552, 33-164 Olszyny",65,700,127,110
+"Rzeszowski Dom Kultury, ul. Jana Olbrachta 120, 35-614 Rzeszów",596,558,40,227
+"Rzeszowski Dom Kultury, ul. kard. Karola Wojtyły 164, 35-304 Rzeszów",490,545,867,122
+"S. P. Wojewódzki Szpital Zespolony, ul. Alfreda Sokołowskiego 11, 70-899 Szczecin",55,49,72,43
+"S. P. Zakład Opieki Zdrowotnej MSWiA, ul. Jagiellońska 44, 70-382 Szczecin",7,6,14,4
+"SP ZOZ Całodobowy Oddział Rehabilitacji, ul. Eugeniusza Kwiatkowskiego 2, 37-450 Stalowa Wola",4,13,8,12
+"SP ZOZ Ministerstwa Spraw Wewnętrznych i Administracji w Gdańsku, Gdańsk ul. Kartuska 4/6, 80-104 Gdańsk 18",11,10,13,5
+"SP ZOZ Sanatorium Uzdrowiskowe MSWiA ""Agat"", ul. Cervi 14, 58-560 Jelenia Góra",72,68,88,67
+"SP ZOZ w Mińsku Mazowieckim, ul. Szpitalna 37, 05-300 Mińsk Mazowiecki",2,19,8,18
+"SP-ZOZ Szpital im. Św. Ducha w Rawie Mazowieckiej, ul. Warszawska 14, 96-200 Rawa Mazowiecka",0,9,3,4
+"Sala widowiskowa ""Wczasowicz"" w Iwoniczu-Zdroju, pl. Józefa Dietla 2, 38-440 Iwonicz-Zdrój",467,566,742,70
+"Samodzielne Publiczne Sanatorium Gruźlicy i Chorób Płuc w Poniatowej, ul. Fabryczna 6, 24-320 Poniatowa",0,18,4,15
+"Samodzielny Publiczny Szpital Kliniczny Nr 1 im. prof. Stanisława Szyszko Śląskiego Uniwersytetu Medycznego w Katowicach, ul. ks. Karola Koziołka 1, 41-803 Zabrze",9,11,16,6
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej Sanatorium Uzdrowiskowe Ministerstwa Spraw Wewnętrznych i Administracji ”ORION” w Ciechocinku, ul. Warzelniana 1, 87-720 Ciechocinek",120,105,164,85
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Augustowie, ul. Szpitalna 12, 16-300 Augustów",6,17,7,16
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bielsku Podlaskim (szpital), ul. Kleszczelowska 1, 17-100 Bielsk Podlaski",20,23,25,22
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krotoszynie, Szpital Powiatowy im. Marcelego Nenckiego, ul. Mickiewicza 21, 63-700 Krotoszyn",8,15,8,9
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krotoszynie, Szpital w Koźminie Wielkopolskim, ul. Czesława Stęszewskiego 9-10, 63-720 Koźmin Wielkopolski",7,22,13,18
+"Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowym Mieście nad Pilicą, ul. Tomaszowska 43, 26-420 Nowe Miasto nad Pilicą",2,13,1,12
+"Samodzielny Publiczny Zespół Opieki Zdrowotnej Szpital w Gostyniu, pl. Karola Marcinkowskiego 8/9, 63-800 Gostyń",3,13,12,9
+"Samodzielny Publiczny Zespół Opieki Zdrowotnej, ul. Grunwaldzka 9, 42-700 Lubliniec",0,2,3,1
+"Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Kozienicach, ul. Al. Władysława Sikorskiego 10, 26-900 Kozienice",9,33,20,32
+"Samodzielny Szpital Miejski im. PCK, ul. Sienkiewicza 79, 15-003 Białystok",10,19,15,16
+"Samorządowe Przedszkole w Skaryszewie, ul. Wojska Polskiego 5, 26-640 Skaryszew",197,624,340,39
+"Samorządowy Dom Pomocy Społecznej w Jedliczu, ul. Gen. Tadeusza Kościuszki 5, 38-460 Jedlicze",1,9,3,7
+"Samorządowy Ośrodek Kultury i Sportu Gminy Mielec z/s w Chorzelowie, Chorzelów 307, 39-331 Chorzelów",271,568,492,12
+"Sanatorium Uzdrowiskowe ""Ciche Wąwozy"", ul. Bartosza Głowackiego 12, 24-150 Nałęczów",37,53,44,48
+"Szkoła Podstawowa Nr 1 im. Bohaterów Westerplatte, Stara Wieś 549, 34-600 Limanowa",116,766,245,276
+"Szkoła Podstawowa Nr 1 im. Jana Pawła II, Męcina 530, 34-654 Męcina",206,644,347,23
+"Szkoła Podstawowa Nr 1 w Niechobrzu, Niechobrz 679, 36-047 Niechobrz",220,719,362,304
+"Szkoła Podstawowa Nr 1 w Radzyminie, wejście od ul. Batorego, ul. 11 Listopada 2, 05-250 Radzymin",221,683,428,141
+"Szkoła Podstawowa Nr 1 w Słupnie, Słupno al. Aleja Jana Pawła II 14, 05-250 Radzymin",432,560,741,52
+"Szkoła Podstawowa Nr 1 w Tokarni, Tokarnia 379, 32-436 Tokarnia",130,625,228,19
+"Szkoła Podstawowa Nr 1, Budzów 553, 34-211 Budzów",226,558,410,39
+"Szkoła Podstawowa Nr 1, Kamienica 490, 34-608 Kamienica",95,638,170,7
+"Szkoła Podstawowa Nr 1, Lubomierz 345, 34-736 Lubomierz",50,718,97,51
+"Szkoła Podstawowa Nr 1, Skawa 584A, 34-713 Skawa",172,591,290,71
+"Szkoła Podstawowa Nr 1, ul. Józefa Piłsudskiego 35, 05-091 Ząbki",486,617,961,110
+"Szkoła Podstawowa Nr 1, ul. Karola Szamoty 35, 07-100 Węgrów",365,498,659,31
+"Szkoła Podstawowa Nr 1, ul. Mickiewicza 59, 33-340 Stary Sącz",288,725,461,136
+"Szkoła Podstawowa Nr 1, ul. Piusa Jabłońskiego 4, 34-480 Jabłonka",221,1023,412,900
+"Szkoła Podstawowa Nr 17, ul. Mała Poręba 57, 33-300 Nowy Sącz",280,742,450,212
+"Szkoła Podstawowa Nr 2 w Radzyminie, ul. Marii Konopnickiej 24, 05-250 Radzymin",525,556,932,146
+"Szkoła Podstawowa Nr 2, Lipnica Mała 346, 34-482 Lipnica Mała",79,951,159,715
+"Szkoła Podstawowa Nr 2, ul. Aleja Armii Krajowej 81, 05-200 Wołomin",776,985,1397,694
+"Szkoła Podstawowa Nr 2, ul. Stefana Batorego 11, 05-091 Ząbki",459,600,795,67
+"Szkoła Podstawowa Nr 24, ul. Piotra Czajkowskiego 11, 35-602 Rzeszów",700,486,216,137
+"Szkoła Podstawowa Nr 8, ul. Wielopolska 162, 39-200 Dębica",246,658,435,197
+"Szkoła Podstawowa im. Armii Krajowej, ul. Mazowiecka 40, 05-255 Stare Załubice",401,710,744,199
+"Szkoła Podstawowa im. Błogosławionej Rodziny Ulmów w Markowej, Markowa 1351, 37-120 Markowa",111,535,193,98
+"Szkoła Podstawowa im. Henryka Sienkiewicza w Choroszczy, ul. Powstania Styczniowego 26A, 16-070 Choroszcz",388,548,674,26
+"Szkoła Podstawowa im. Jana Pawła II w Ochotnicy Dolnej – Centrum, Ochotnica Dolna 105, 34-452 Ochotnica Dolna",111,698,185,84
+"Szkoła Podstawowa im. Jana Pawła II w Starym Wiśniczu, Stary Wiśnicz 480, 32-720 Nowy Wiśnicz",183,829,402,448
+"Szkoła Podstawowa im. Janusza Korczaka w Krynicy Morskiej, ul. Gdańska 55a, 82-120 Krynica Morska",925,444,875,96
+"Szkoła Podstawowa im. Prymasa Tysiąclecia w Woli Zarczyckiej, Wola Zarczycka 128, 37-311 Wola Zarczycka",88,1254,152,930
+"Szkoła Podstawowa im. Stanisława Wyspiańskiego, Mordarka 204, 34-600 Limanowa",160,762,310,267
+"Szkoła Podstawowa im. mjra pil. Jerzego Iszkowskiego, ul. św. Floriana 20, 33-312 Tęgoborze",154,1152,316,779
+"Szkoła Podstawowa nr 1 im. Pierwszego Marszałka Polski Józefa Piłsudskiego, ul. Idzikowskiego 2a, 05-070 Sulejówek",1158,791,881,552
+"Szkoła Podstawowa nr 1 w Radzyminie, wejście od ul. 11go Listopada, ul. 11 Listopada 2, 05-250 Radzymin",436,508,828,46
+"Szkoła Podstawowa nr 13 z Oddziałami Sportowymi i Mistrzostwa Sportowego im. Polskich Olimpijczyków w Żorach, os. Osiedle Pawlikowskiego 40, 44-240 Żory",886,829,1475,689
+"Szkoła Podstawowa nr 14, ul. Edukacyjna 13, 44-268 Jastrzębie-Zdrój",228,603,441,129
+"Szkoła Podstawowa nr 4, ul. Stanisława Moniuszki 36, 21-500 Biała Podlaska",382,474,689,67
+"Szkoła Podstawowa nr 5, ul. Słocińska 4, 35-330 Rzeszów",730,961,1271,803
+"Szkoła Podstawowa w Górnie, ul. Szkolna 1, 26-008 Górno",221,905,422,572
+"Szkoła Podstawowa w Jaworniku, Jawornik 293, 32-400 Myślenice",292,755,601,334
+"Szkoła Podstawowa w Krasnem, Krasne 742, 36-007 Krasne",410,562,750,102
+"Szkoła Podstawowa w Krzyszkowicach, Krzyszkowice 368, 32-445 Krzyszkowice",253,665,467,199
+"Szkoła Podstawowa w Skomielnej Białej, Skomielna Biała 1, 32-434 Skomielna Biała",180,748,328,234
+"Szkoła Podstawowa w Tenczynie, Tenczyn 171, 32-433 Lubień",90,694,165,197
+"Szkoła Podstawowa w Truskolasach, ul. Szkolna 3, 42-134 Truskolasy",360,542,711,21
+"Szkoła Podstawowa w Trzebuni, Trzebunia 444, 32-438 Trzebunia",155,643,294,47
+"Szkoła Podstawowa w Tuszymie, Tuszyma 482, 39-321 Tuszyma",147,596,327,55
+"Szkoła Podstawowa w Wysokienicach, Wysokienice 32, 96-130 Głuchów",50,751,136,183
+"Szkoła Podstawowa z Oddziałami Integracyjnymi im. Bohaterów Westerplatte, ul. Szkolna 4, 84-208 Kielno",970,637,1687,384
+"Szkoła Podstawowa, Brzezna 447, 33-386 Podegrodzie",140,784,278,254
+"Szkoła Podstawowa, Gołkowice Górne 65, 33-388 Gołkowice Dolne",131,631,212,77
+"Szkoła Podstawowa, Juszczyn 268, 34-231 Juszczyn",117,686,181,139
+"Szkoła Podstawowa, Kalinówka 78, 21-040 Świdnik",641,481,139,71
+"Szkoła Podstawowa, Zagorzyn 172, 33-390 Łącko",61,672,110,75
+"Szkoła Podstawowa, Zbylitowska Góra ul. św. Floriana 1, 33-113 Zgłobice",322,664,563,76
+"Szkoła Podstawowa, ul. Lubelska 21A, 24-220 Niedrzwica Duża",442,947,926,822
+"Szkoła Podstawowa, ul. Mariana Cyconia 3, 33-342 Barcice",208,885,331,318
+"Szkoła Podstawowa, ul. Środkowa 184, 34-405 Białka Tatrzańska",169,583,435,21
+"Szkoła Podstawowa, Łukowica 285, 34-606 Łukowica",106,707,207,101
+"Szpital Chorób Płuc w Siewierzu Sp. z o. o., ul. Zbigniewa Oleśnickiego 21, 42-470 Siewierz",12,9,5,7
+"Szpital Medicover, al. Aleja Rzeczypospolitej 5, 02-972 Warszawa",28,19,20,14
+"Szpital Miejski Nr 4 w Gliwicach Sp. z o. o., ul. Zygmunta Starego 20, 44-100 Gliwice",17,13,18,8
+"Szpital Miejski sp. z o.o., ul. 1 Maja 9, 41-100 Siemianowice Śląskie",31,14,33,13
+"Szpital Mrągowski im. Michała Kajki Sp. z o. o., ul. Wolności 3, 11-700 Mrągowo",8,16,18,12
+"Szpital Pomnik Chrztu Polski, ul. 3 Maja 37 - 39, 62-200 Gniezno",20,21,31,20
+"Szpital Powiatowy Sp. z o. o., ul. Szewska 23, 87-140 Chełmża",5,10,12,9
+"Szpital Powiatowy w Gryfinie Sp. z o.o. Zakład Opiekuńczo-Leczniczy w Gryfinie, ul. Armii Krajowej 8, 74-100 Gryfino",1,2,4,1
+"Szpital Powiatowy w Myszkowie, ul. Aleja Wolności 29, 42-300 Myszków",16,34,26,25
+"Szpital Powiatowy w Rykach Sp. z o. o., ul. Żytnia 23, 08-500 Ryki",1,12,1,8
+"Szpital Powiatowy w Wodzisławiu Śląskim, ul. Plebiscytowa 47, 44-280 Rydułtowy",12,14,14,13
+"Szpital Rehabilitacyjny we Wrocławiu (Provita), ul. Bierutowska 63, 51-317 Wrocław",12,16,18,9
+"Szpital Rejonowy im. dr. Anki w Krzepicach, ul. Szkolna 1, 42-160 Krzepice",2,4,2,3
+"Szpital Tucholski sp. z o.o., ul. Nowodworskiego 14-18, 89-500 Tuchola",4,10,17,8
+"Szpital Wielospecjalistyczny w Kędzierzynie-Koźlu, ul. Doktora Judyma 4, 47-220 Kędzierzyn-Koźle",9,8,11,6
+"Urząd Gminy Lubenia, Lubenia 131, 36-042 Lubenia",173,555,342,36
+"Urząd Gminy Sierakowice, ul. Lęborska 30, 83-340 Sierakowice",316,610,548,50
+"Urząd Gminy Wilamowice, ul. Rynek 1, 43-330 Wilamowice",344,754,587,218
+"Urząd Gminy w Czudcu-Sala Widowiskowa, ul. Starowiejska 6, 38-120 Czudec",240,675,437,220
+"Urząd Gminy w Długosiodle, ul. Tadeusza Kościuszki 2, 07-210 Długosiodło",266,575,401,22
+"Urząd Gminy w Suchożebrach, ul. Aleksandry Ogińskiej 11, 08-125 Suchożebry",125,543,256,65
+"Urząd Gminy, Korzenna 325, 33-322 Korzenna",89,720,225,225
+"Urząd Miasta, ul. Portowa 24, 84-140 Jastarnia",689,595,956,286
+"Urząd Miejski (sala konferencyjna), ul. Marszałka Józefa Piłsudskiego 22, 23-100 Bychawa",89,174,260,163
+"Uzdrowisko Świeradów-Czerniawa Sp. z o.o. Grupa PGU Szpital Centrum Rehabilitacji i Reumatologii ""Goplana"", ul. Marszałka Józefa Piłsudskiego 33, 59-850 Świeradów-Zdrój",7,9,5,8
+"Warmińsko-Mazurskie Centrum Chorób Płuc w Olsztynie, ul. Jagiellońska 78, 10-357 Olsztyn",23,28,36,25
+"Wiejski Dom Kultury w Gniewczynie Łańcuckiej, Gniewczyna Łańcucka 621, 37-203 Gniewczyna Łańcucka",60,584,148,28
+"Wojewódzki Szpital Rehabilitacyjny im. dr. Stefana Jasińskiego, ul. Ciągłówka 9, 34-500 Zakopane",44,86,71,83
+"Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej Jednostka Zamiejscowa „Wysoka Łąka”, ul. Sanatoryjna 27, 58-530 Kowary",22,25,26,19
+"Wojskowy Instytut Medyczny Państwowy Instytut Badawczy, ul. Zegrzyńska 8, 05-119 Legionowo",15,14,11,5
+"Zakład Opieki Zdrowotnej, ul. Wita Stwosza 39-41, 40-042 Katowice",24,19,32,16
+"Zakład Opiekuńczo-Leczniczy dla Dorosłych Zgromadzenia Sióstr Franciszkanek Rodziny Maryi w Skrzeszewach, Skrzeszewy 26, 09-541 Pacyna",4,24,5,23
+"Zakład Pielęgnacyjno-Opiekuńczy Fundacji Ambrozja, ul. Stanisława Dubois 117, 93-465 Łódź",16,2,19,1
+"Zakład Pielęgnacyjno-Opiekuńczy w Wycześniaku, Wycześniak 22, 96-330 Puszcza Mariańska",7,11,13,10
+"Zespół Opieki Zdrowotnej w Busku-Zdroju, ul. Bohaterów Warszawy 67, 28-100 Busko-Zdrój",15,45,15,44
+"Zespół Opieki Zdrowotnej w Szczytnie, ul. Marii Curie-Skłodowskiej 12, 12-100 Szczytno",4,12,16,7
+"Zespół Oświatowo-Wychowawczy w Strzale, Chodów ul. Sokołowska 1, 08-119 Siedlce",230,620,444,110
+"Zespół Oświatowy w Stoku Lackim, Stok Lacki ul. Siedlecka 135, 08-110 Siedlce",262,609,468,201
+"Zespół Placówek Oświatowych w Głogoczowie, Głogoczów 297, 32-444 Głogoczów",335,673,639,212
+"Zespół Placówek Oświatowych w Krzczonowie, Krzczonów 82, 32-435 Krzczonów",149,751,270,247
+"Zespół Placówek Oświatowych, Konina 211, 34-735 Niedźwiedź",37,612,72,44
+"Zespół Placówek Oświatowych, ul. Bronisława Zybury 4, 39-460 Nowa Dęba",232,409,364,9
+"Zespół Szkolno – Przedszkolny, Biała Niżna 495, 33-330 Grybów",147,765,259,269
+"Zespół Szkolno – Przedszkolny, Kąclowa 280, 33-330 Grybów",40,862,73,317
+"Zespół Szkolno – Przedszkolny, Libusza 679, 38-306 Libusza",256,694,418,221
+"Zespół Szkolno – Przedszkolny, Stróże 396, 33-331 Stróże",224,611,367,70
+"Zespół Szkolno – Przedszkolny, ul. św. Anny 1/3, 34-521 Ząb",119,512,192,26
+"Zespół Szkolno – Przedszkolny, Łętownia 286, 34-242 Łętownia",162,702,314,233
+"Zespół Szkolno-Przedszkolny nr 1, ul. Pszczyńska 125, 44-335 Jastrzębie-Zdrój",453,763,734,264
+"Zespół Szkolno-Przedszkolny nr 4, ul. Staroniwska 55, 35-101 Rzeszów",647,513,138,72
+"Zespół Szkolno-Przedszkolny nr 7, ul. Budziwojska 154, 35-317 Rzeszów",424,518,775,154
+"Zespół Szkolno-Przedszkolny nr 8 w Żorach, ul. Wysoka 13, 44-240 Żory",499,541,907,162
+"Zespół Szkolno-Przedszkolny nr 9 w Żorach, ul. Rybnicka 226, 44-240 Żory",362,571,659,53
+"Zespół Szkolno-Przedszkolny w Dobrzelowie, ul. Górna 7, 97-400 Bełchatów",264,616,539,103
+"Zespół Szkolno-Przedszkolny w Jedlni, Jedlnia 93, 26-670 Pionki",178,676,318,99
+"Zespół Szkolno-Przedszkolny w Radgoszczy, pl. św. Kazimierza 10, 33-207 Radgoszcz",72,620,125,0
+"Zespół Szkolno-Przedszkolny, Wola Kiełpińska 1, 05-140 Serock",1169,1165,1045,135
+"Zespół Szkolno-Przedszkolny, ul. Szkolna 21, 44-323 Połomia",190,717,326,210
+"Zespół Szkolno-Przedszkolny, ul. Szkolna 6, 84-217 Szemud",687,823,1149,713
+"Zespół Szkolno-Przedszkolny, ul. Zwycięstwa 44, 44-177 Paniówki",471,542,777,27
+"Zespół Szkoły i Schroniska Młodzieżowego, Stryszawa 400A, 34-205 Stryszawa",225,666,360,86
+"Zespół Szkół Ogólnokształcących im. Prof. Stanisława Bąka w Grębowie, ul. Rynek 9, 39-410 Grębów",184,554,340,9
+"Zespół Szkół Ogólnokształcących, ul. Długoszowskich 1, 38-350 Bobowa",213,756,387,249
+"Zespół Szkół Technicznych, ul. Adama Matuszczaka 7, 35-083 Rzeszów",554,462,215,261
+"Zespół Szkół im. Bł. Bronisława Markiewicza, Trzeboś ul. Kościelna 1, 36-050 Sokołów Małopolski",37,648,94,140
+"Zespół Szkół im. Jana Pawła II w Jasionce, Jasionka 301, 36-002 Jasionka",293,557,568,121
+"Zespół Szkół nr 3 w Przytkowicach, Przytkowice 542, 34-141 Przytkowice",228,541,451,38
+"Zespół Szkół w Medyni Głogowskiej, Medynia Głogowska 426, 37-126 Medynia Głogowska",60,631,121,50
+"Zespół Szkół w Łukawcu, Łukawiec 423, 36-004 Łąka",158,651,320,97
+"Zgierskie Centrum Kardiologii Med-Pro Polsko-Amerykańskich Klinik Serca, ul. Parzęczewska 35, 95-100 Zgierz",3,4,3,3
+"emeis Polska Sp z o.o. Rezydencja na Dyrekcyjnej, ul. Dyrekcyjna 5-7, 50-528 Wrocław",36,12,44,10
+"Świetlica Wiejska, Przyszowa 605, 34-604 Przyszowa",136,703,258,143
+"Świetlica szpitalna, ul. Szpitalna 9, 24-300 Opole Lubelskie",12,9,0,2
+"„Zdrowie” Sp. z o. o. Niepubliczny Zakład Opieki Zdrowotnej w Kwidzynie, ul. gen. Józefa Hallera 31, 82-500 Kwidzyn",5,5,9,4
