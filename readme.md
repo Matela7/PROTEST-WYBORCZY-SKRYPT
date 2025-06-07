@@ -29,6 +29,8 @@ Ale na pewno są to wyniki, które może **ktoś inteligentniejszy ode mnie** g�
 - 📈 Prosta analiza głosów znajduje się w pliku `analyze.ipynb`
 - 📊 Wyniki głosowania i nieprawidłowości w plikach **CSV** oraz **XLSX**
 
+## 🔍 Proszę jedynie o wzmiankę podczas publikacji odkryć bądź jakiś badań
+
 ---
 ## Przegląd techniczny
 Ten projekt zawiera kompletną analizę statystyczną wyników Wyborów Prezydenckich 2025 w Polsce, ze szczególnym uwzględnieniem anomalii między pierwszą a drugą turą głosowania. Projekt obejmuje scraping danych z oficjalnych źródeł, analizę statystyczną oraz identyfikację nietypowych wzorców głosowania.
@@ -107,10 +109,10 @@ Kompleksowa analiza statystyczna obejmująca... tutaj ktoś mądrzejszy musi to 
 
 ### Środowisko Python
 ```bash
-pip install playwright pandas asyncio beautifulsoup4 openpyxl
+pip install -r requirements.txt
 playwright install chromium
 ```
-albo po prostu requirements.txt
+
 
 ### Uruchamianie
 
